@@ -15,7 +15,7 @@
 
   * :paw_prints: Cloud Native application development;
   
-  * :paw_prints: Secure Software Architecture and Development;
+  * :paw_prints: Secure and Sustainable Software Engineering;
 
 
 #### Open-Source Contribution
