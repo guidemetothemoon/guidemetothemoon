@@ -18,11 +18,13 @@
   * :paw_prints: Secure and Sustainable Software Engineering;
 
 
-#### Open-Source Contribution
+#### Open Source Contributions
 
-I'm just starting out as an open-sourcerer and as of now contribute to following projects:
+I'm currently contributing to following projects:
 
 * :seedling: Anatole Hugo Theme: [anatole](https://github.com/lxndrblz/anatole)
+
+* :seedling: Sprint Name Generator: [sprint-name-generator](https://github.com/flostadler/sprint-name-generator)
 
 
 **Personal facts**
