@@ -1,8 +1,8 @@
 name: Retrieve recent blog posts
 on: 
-  workflow_dispatch
+  workflow_dispatch:
   schedule:
-    - cron: "0 0 * * 1" # Runs every hour, on the hour
+    - cron: "0 0 * * 1"
 jobs:
   update--profile-readme:
     name: Update GitHub Profile README with recent blog posts
