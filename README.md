@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Kind cat GIF" src="https://user-images.githubusercontent.com/47773700/183284083-2c706e68-bfd1-417e-8268-2d7da23db514.gif" width="400" height="300" />
+  <img alt="Kind cat GIF" src="./images/greeting-cat.gif" width="400" height="300" />
 </p>
 
 <h1 align="center">Hi, I'm Kris!:smiley_cat:</h1>
@@ -43,10 +43,15 @@ I'm currently contributing to following projects:
   * :smirk_cat: LinkedIn :point_right: [krisde](https://www.linkedin.com/in/krisde/)
 
   * :smirk_cat: Twitter :point_right: [@kristhecodingu1](https://twitter.com/kristhecodingu1)
-
-
-![image](https://user-images.githubusercontent.com/47773700/162704606-23df2596-532c-42c8-8fea-5795eb821fd8.png)
+---
+<p float="left">
+  <img alt="Azure Content Hero" src="./images/azure-content-hero.png" width="200" height="200" />
+  <img alt="Azure Community Hero" src="./images/azure-community-hero.png" width="200" height="200" />
+</p>
 
 ---
 
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=kristhecodingu1&layout=wide&show_border=on)](https://twitter.com/kristhecodingu1)
+
+---
+<sub>Creds for the Cat GIF: Zakmotion @dribbble.com</sub>	
