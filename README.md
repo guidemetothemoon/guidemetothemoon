@@ -74,10 +74,16 @@ I'm currently contributing to following projects:
   <img alt="Azure Community Hero" src="./images/azure-community-hero.png" width="200" height="200" />
 </p>
 
-## 📜Blog Posts
+## 📜Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+## 📜Recent Tech Tips
+
+<!-- TECH-TIPS-LIST:START -->
+<!-- TECH-TIPS-LIST:END -->
+
 
 ## 🦆Tweet Tweet
 
