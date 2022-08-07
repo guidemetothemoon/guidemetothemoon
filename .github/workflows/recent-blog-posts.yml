@@ -1,0 +1,14 @@
+name: Retrieve recent blog posts
+on:
+  schedule:
+    - cron: "0 0 * * 1" # Runs every hour, on the hour
+jobs:
+  update--profile-readme:
+    name: Update GitHub Profile README with recent blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          max_post_count: 10
+          feed_list: "https://kristhecodingunicorn.com/index.xml"

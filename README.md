@@ -76,6 +76,9 @@ I'm currently contributing to following projects:
 
 ## 📜Blog Posts
 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ## 🦆Tweet Tweet
 
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=kristhecodingu1&layout=wide&show_border=on)](https://twitter.com/kristhecodingu1)
