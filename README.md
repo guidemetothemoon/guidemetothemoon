@@ -33,18 +33,24 @@
 
 
 ## 👩‍💻Tech
-  
-  * :paw_prints: .NET, C#, MS Azure;
-  
-  * :paw_prints: All the \*Ops (DevOps, GitOps, DevSecOps++ :sunglasses:);
 
-  * :paw_prints: Cloud Native application development;
-  
-  * :paw_prints: Secure and Sustainable Software Engineering;
+<div id="tech-icons">
+  <img src="./images/tech-icons/azure-original-wordmark.svg" title="Microsoft Azure" alt="Microsoft Azure" width="40" height="40"/>&nbsp;
+  <img src="./images/tech-icons/kubernetes-plain-wordmark.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp;
+  <img src="./images/tech-icons/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="./images/tech-icons/csharp-original.svg" title="CSharp" alt="CSharp" width="40" height="40"/>&nbsp;
+  <img src="./images/tech-icons/dotnetcore-original.svg" title=".NET" alt=".NET" width="40" height="40"/>&nbsp;  
+  <img src="./images/tech-icons/devsecops-icon.png" title="DevSecOps" alt="DevSecOps" width="40" height="40"/>&nbsp;
+  <img src="./images/tech-icons/sustainable-se-icon.svg" title="Sustainable Software Engineering" alt="Sustainable Software Engineering" width="40" height="40"/>
+  <img src="./images/tech-icons/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
+  <img src="./images/tech-icons/powershell-icon.png" title="PowerShell" alt="PowerShell" width="40" height="40"/>
+  <img src="./images/tech-icons/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;  
+  <img src="./images/tech-icons/microsoftsqlserver-plain-wordmark.svg" title="MSSQL" alt="MSSQL" width="40" height="40"/>&nbsp;
+</div>
 
-## Community Volunteering
+## 🙌🏼Community Volunteering
 
-## Open Source Contributions
+## 🐾Open Source Contributions
 
 I'm currently contributing to following projects:
 
@@ -60,7 +66,7 @@ I'm currently contributing to following projects:
   <img alt="Azure Community Hero" src="./images/azure-community-hero.png" width="200" height="200" />
 </p>
 
-## Blog Posts
+## 📜Blog Posts
 
 ## 🦆Tweet Tweet
 
