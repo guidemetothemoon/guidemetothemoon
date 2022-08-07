@@ -76,22 +76,16 @@ I'm currently contributing to following projects:
 
 ## 📜Recent Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-- [Setting up OAuth 2.0 authentication for applications in AKS with NGINX and OAuth2 Proxy](https://kristhecodingunicorn.com/post/k8s_nginx_oauth/)
-- [Accelerated Networking for AKS nodes](https://kristhecodingunicorn.com/post/k8s_an/)
-- [Continuous Delivery to AKS with Azure DevOps Environments - Part 2](https://kristhecodingunicorn.com/post/k8s_ado_envs-2/)
-- [Continuous Delivery to AKS with Azure DevOps Environments - Part 1](https://kristhecodingunicorn.com/post/k8s_ado_envs-1/)
-- [Improving .NET code quality with NDepend in Visual Studio and Azure DevOps](https://kristhecodingunicorn.com/post/ndepend/)
-- [Cleaning up secrets in Azure DevOps and GitHub repositories with BFG Repo-Cleaner](https://kristhecodingunicorn.com/post/secrets_cleanup/)
-- [How to upgrade NGINX Ingress Controller with zero downtime in production](https://kristhecodingunicorn.com/post/k8s_ic_upgrade/)
-- [How to include new Kubernetes resource into existing Helm release](https://kristhecodingunicorn.com/post/k8s_object_helm/)
-- [Using Kubernetes Service for proxying to external services](https://kristhecodingunicorn.com/post/k8s_proxy_svc/)
-- [How to perform static code analysis of .NET Code with Security Code Scan](https://kristhecodingunicorn.com/post/dotnet_sast_scs/)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><tr><td>Setting up OAuth 2.0 authentication for applications in AKS with NGINX and OAuth2 Proxy</td><td>https://kristhecodingunicorn.com/post/k8s_nginx_oauth/</td></tr><tr><td>Accelerated Networking for AKS nodes</td><td>https://kristhecodingunicorn.com/post/k8s_an/</td></tr><tr><td>Continuous Delivery to AKS with Azure DevOps Environments - Part 2</td><td>https://kristhecodingunicorn.com/post/k8s_ado_envs-2/</td></tr><tr><td>Continuous Delivery to AKS with Azure DevOps Environments - Part 1</td><td>https://kristhecodingunicorn.com/post/k8s_ado_envs-1/</td></tr><tr><td>Improving .NET code quality with NDepend in Visual Studio and Azure DevOps</td><td>https://kristhecodingunicorn.com/post/ndepend/</td></tr><tr><td>Cleaning up secrets in Azure DevOps and GitHub repositories with BFG Repo-Cleaner</td><td>https://kristhecodingunicorn.com/post/secrets_cleanup/</td></tr><tr><td>How to upgrade NGINX Ingress Controller with zero downtime in production</td><td>https://kristhecodingunicorn.com/post/k8s_ic_upgrade/</td></tr><tr><td>How to include new Kubernetes resource into existing Helm release</td><td>https://kristhecodingunicorn.com/post/k8s_object_helm/</td></tr><tr><td>Using Kubernetes Service for proxying to external services</td><td>https://kristhecodingunicorn.com/post/k8s_proxy_svc/</td></tr><tr><td>How to perform static code analysis of .NET Code with Security Code Scan</td><td>https://kristhecodingunicorn.com/post/dotnet_sast_scs/</td></tr><!-- BLOG-POST-LIST:END -->
 
 ## 📜Recent Tech Tips
 
 <!-- TECH-TIPS-LIST:START -->
+- [How to override ASP.NET Core application runtime version](https://kristhecodingunicorn.com/techtips/dotnet_runtime_framework/)
+- [Detect and avoid this certificate validation trap in .NET!](https://kristhecodingunicorn.com/techtips/dotnet_https_validation/)
+- [Log in to Azure AD without active subscription from Azure CLI](https://kristhecodingunicorn.com/techtips/azure_ad_login_subscription/)
+- [Re-using Azure DevOps Environment efficiently across multiple pipelines](https://kristhecodingunicorn.com/techtips/ado_env_as_var/)
+- [Creating reusable build tasks in Azure DevOps pipelines with templates](https://kristhecodingunicorn.com/techtips/ado_pipeline_template/)
 <!-- TECH-TIPS-LIST:END -->
 
 
