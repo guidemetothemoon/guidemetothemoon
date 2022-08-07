@@ -12,4 +12,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: 10
-          feed_list: "https://kristhecodingunicorn.com/index.xml"
+          feed_list: "https://kristhecodingunicorn.com/post/index.xml"
