@@ -2,7 +2,7 @@
   <img alt="Kind cat GIF" src="https://user-images.githubusercontent.com/47773700/183284083-2c706e68-bfd1-417e-8268-2d7da23db514.gif" width="400" height="300" />
 </p>
 
-<h1 align="center">Hi, I'm Kris!:smiley_cat:</h1>
+<h1 align="center" style="fonfont-family: "Lucida Console", "Courier New", monospace;">Hi, I'm Kris!:smiley_cat:</h1>
 
 :tiger: I live in Norway, love coding, cats and unicorns.
 
