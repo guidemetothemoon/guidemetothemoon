@@ -77,6 +77,16 @@ I'm currently contributing to following projects:
 ## 📜Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Setting up OAuth 2.0 authentication for applications in AKS with NGINX and OAuth2 Proxy](https://kristhecodingunicorn.com/post/k8s_nginx_oauth/)
+- [Accelerated Networking for AKS nodes](https://kristhecodingunicorn.com/post/k8s_an/)
+- [Continuous Delivery to AKS with Azure DevOps Environments - Part 2](https://kristhecodingunicorn.com/post/k8s_ado_envs-2/)
+- [Continuous Delivery to AKS with Azure DevOps Environments - Part 1](https://kristhecodingunicorn.com/post/k8s_ado_envs-1/)
+- [Improving .NET code quality with NDepend in Visual Studio and Azure DevOps](https://kristhecodingunicorn.com/post/ndepend/)
+- [Cleaning up secrets in Azure DevOps and GitHub repositories with BFG Repo-Cleaner](https://kristhecodingunicorn.com/post/secrets_cleanup/)
+- [How to upgrade NGINX Ingress Controller with zero downtime in production](https://kristhecodingunicorn.com/post/k8s_ic_upgrade/)
+- [How to include new Kubernetes resource into existing Helm release](https://kristhecodingunicorn.com/post/k8s_object_helm/)
+- [Using Kubernetes Service for proxying to external services](https://kristhecodingunicorn.com/post/k8s_proxy_svc/)
+- [How to perform static code analysis of .NET Code with Security Code Scan](https://kristhecodingunicorn.com/post/dotnet_sast_scs/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🦆Tweet Tweet
