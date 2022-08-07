@@ -34,29 +34,37 @@
 
 ## 👩‍💻Tech
 
+My main area of interest is secure and sustainable cloud native application development with specialization in Microsoft technologies like Azure and .NET. Below you may see some of the technologies I'm using more or less on a daily basis:
+
 <div id="tech-icons">
-  <img src="./images/tech-icons/azure-original-wordmark.svg" title="Microsoft Azure" alt="Microsoft Azure" width="40" height="40"/>&nbsp;
-  <img src="./images/tech-icons/kubernetes-plain-wordmark.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp;
-  <img src="./images/tech-icons/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="./images/tech-icons/csharp-original.svg" title="CSharp" alt="CSharp" width="40" height="40"/>&nbsp;
-  <img src="./images/tech-icons/dotnetcore-original.svg" title=".NET" alt=".NET" width="40" height="40"/>&nbsp;  
-  <img src="./images/tech-icons/devsecops-icon.png" title="DevSecOps" alt="DevSecOps" width="40" height="40"/>&nbsp;
-  <img src="./images/tech-icons/sustainable-se-icon.svg" title="Sustainable Software Engineering" alt="Sustainable Software Engineering" width="40" height="40"/>
-  <img src="./images/tech-icons/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
-  <img src="./images/tech-icons/powershell-icon.png" title="PowerShell" alt="PowerShell" width="40" height="40"/>
-  <img src="./images/tech-icons/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;  
-  <img src="./images/tech-icons/microsoftsqlserver-plain-wordmark.svg" title="MSSQL" alt="MSSQL" width="40" height="40"/>&nbsp;
+  <img src="./images/tech-icons/azure-original-wordmark.svg" title="Microsoft Azure" alt="Microsoft Azure" width="100" height="100"/>&nbsp;
+  <img src="./images/tech-icons/kubernetes-plain-wordmark.svg" title="Kubernetes" alt="Kubernetes" width="100" height="100"/>&nbsp;
+  <img src="./images/tech-icons/docker-original-wordmark.svg" title="Docker" alt="Docker" width="100" height="100"/>&nbsp;
+  <img src="./images/tech-icons/csharp-original.svg" title="CSharp" alt="CSharp" width="100" height="100"/>&nbsp;
+  <img src="./images/tech-icons/dotnetcore-original.svg" title=".NET" alt=".NET" width="100" height="100"/>&nbsp;  
+  <img src="./images/tech-icons/bash-original.png" title="Bash" alt="Bash" width="100" height="100"/>&nbsp;
+  <img src="./images/tech-icons/powershell-icon.png" title="PowerShell" alt="PowerShell" width="100" height="100"/>&nbsp;
+  <img src="./images/tech-icons/git-icon.png" title="Git" alt="Git" width="100" height="100"/>&nbsp;  
+  <img src="./images/tech-icons/sql-icon.png" title="SQL" alt="SQL" width="100" height="100"/>
 </div>
 
 ## 🙌🏼Community Volunteering
+
+* Board member at Norwegian .NET User Group Oslo: [NNUG Oslo](https://www.meetup.com/nnugoslo)
+* Co-organizer at Cloud Native and Kubernetes Oslo:  [Cloud Native and Kubernetes Oslo](https://www.meetup.com/cloud-native-and-kubernetes-oslo)
+* OWASP volunteer:  [OWASP](https://owasp.org)
+* Mentor at GirlCode: [GirlCode](https://www.girl-code.co.uk/findamentor/kristina-devochko) and WomenTech: [womentech](https://www.womentech.net/women-tech-mentors?combine=Devochko&webform_submission_value_1%5B%5D=Norway)
+* Mentor at TENK Tech Camp Oslo: [TENK Tech Camp](https://tenknorge.com/tenk-tech-camp)
+* Volunteer at Dyrenes Hus animal shelter
+
 
 ## 🐾Open Source Contributions
 
 I'm currently contributing to following projects:
 
-* :seedling: Anatole Hugo Theme: [anatole](https://github.com/lxndrblz/anatole)
+**Anatole Hugo Theme:** [anatole](https://github.com/lxndrblz/anatole)
 
-* :seedling: Sprint Name Generator: [sprint-name-generator](https://github.com/flostadler/sprint-name-generator)
+**Sprint Name Generator:** [sprint-name-generator](https://github.com/flostadler/sprint-name-generator)
 
 
 ## 🦡 Badges
@@ -73,4 +81,6 @@ I'm currently contributing to following projects:
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=kristhecodingu1&layout=wide&show_border=on)](https://twitter.com/kristhecodingu1)
 
 ---
-<sub>Creds for the Cat GIF: Zakmotion @dribbble.com</sub>	
+<sub>Creds for the Cat GIF: Zakmotion @dribbble.com</sub>
+
+<sub>Creds for tech icons: GitHub devicons and Google search</sub>
