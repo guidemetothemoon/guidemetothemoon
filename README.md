@@ -1,6 +1,6 @@
 <div id="intro" align="center">
 
-  <img alt="Kind cat GIF" src="./images/greeting-cat.gif" width="400" height="300" />
+  <img alt="Kind cat GIF" src="./images/greeting-cat.gif" />
 
   <h1>Hi, I'm Kris - The Coding Unicorn!:smiley_cat:</h1>
 
