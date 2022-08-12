@@ -31,21 +31,22 @@
 
 :octopus: My biggest passion is tech and my goal is to help other developers to code with sustainability, security and cloud native mindset. I'm also determined to help more ladies to start their journey in tech by mentoring. 
 
+[![Spotify](https://guidemetothemoon-spotify.vercel.app/api/spotify?background_color=30305e&border_color=ffffff)](https://open.spotify.com/user/116298200)
 
 ## 👩‍💻Tech
 
 My main area of interest is secure and sustainable cloud native application development with specialization in Microsoft technologies like Azure and .NET. Below you may see some of the technologies I'm using more or less on a daily basis:
 
 <div id="tech-icons">
-  <img src="./images/tech-icons/azure-original-wordmark.svg" title="Microsoft Azure" alt="Microsoft Azure" width="100" height="100"/>&nbsp;
-  <img src="./images/tech-icons/kubernetes-plain-wordmark.svg" title="Kubernetes" alt="Kubernetes" width="100" height="100"/>&nbsp;
-  <img src="./images/tech-icons/docker-original-wordmark.svg" title="Docker" alt="Docker" width="100" height="100"/>&nbsp;
-  <img src="./images/tech-icons/csharp-original.svg" title="CSharp" alt="CSharp" width="100" height="100"/>&nbsp;
-  <img src="./images/tech-icons/dotnetcore-original.svg" title=".NET" alt=".NET" width="100" height="100"/>&nbsp;  
-  <img src="./images/tech-icons/bash-original.png" title="Bash" alt="Bash" width="100" height="100"/>&nbsp;
-  <img src="./images/tech-icons/powershell-icon.png" title="PowerShell" alt="PowerShell" width="100" height="100"/>&nbsp;
-  <img src="./images/tech-icons/git-icon.png" title="Git" alt="Git" width="100" height="100"/>&nbsp;  
-  <img src="./images/tech-icons/sql-icon.png" title="SQL" alt="SQL" width="100" height="100"/>
+  <img src="./images/tech-icons/azure-original-wordmark.svg" title="Microsoft Azure" alt="Microsoft Azure" width="80" height="80"/>&nbsp;
+  <img src="./images/tech-icons/kubernetes-plain-wordmark.svg" title="Kubernetes" alt="Kubernetes" width="80" height="80"/>&nbsp;
+  <img src="./images/tech-icons/docker-original-wordmark.svg" title="Docker" alt="Docker" width="80" height="80"/>&nbsp;
+  <img src="./images/tech-icons/csharp-original.svg" title="CSharp" alt="CSharp" width="80" height="80"/>&nbsp;
+  <img src="./images/tech-icons/dotnetcore-original.svg" title=".NET" alt=".NET" width="80" height="80"/>&nbsp;  
+  <img src="./images/tech-icons/bash-original.png" title="Bash" alt="Bash" width="80" height="80"/>&nbsp;
+  <img src="./images/tech-icons/powershell-icon.png" title="PowerShell" alt="PowerShell" width="80" height="80"/>&nbsp;
+  <img src="./images/tech-icons/git-icon.png" title="Git" alt="Git" width="80" height="80"/>&nbsp;  
+  <img src="./images/tech-icons/sql-icon.png" title="SQL" alt="SQL" width="80" height="80"/>
 </div>
 
 ## 🙌🏼Community Volunteering
