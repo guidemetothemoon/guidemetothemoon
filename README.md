@@ -39,13 +39,13 @@ My main area of interest is secure and sustainable cloud native application deve
 
 <div id="tech-icons">
   <img src="./images/tech-icons/azure-original-wordmark.svg" title="Microsoft Azure" alt="Microsoft Azure" width="80" height="80"/>&nbsp;
-  <img src="./images/tech-icons/kubernetes-plain-wordmark.svg" title="Kubernetes" alt="Kubernetes" width="80" height="80"/>&nbsp;
-  <img src="./images/tech-icons/docker-original-wordmark.svg" title="Docker" alt="Docker" width="80" height="80"/>&nbsp;
-  <img src="./images/tech-icons/csharp-original.svg" title="CSharp" alt="CSharp" width="80" height="80"/>&nbsp;
-  <img src="./images/tech-icons/dotnetcore-original.svg" title=".NET" alt=".NET" width="80" height="80"/>&nbsp;  
-  <img src="./images/tech-icons/bash-original.png" title="Bash" alt="Bash" width="80" height="80"/>&nbsp;
-  <img src="./images/tech-icons/powershell-icon.png" title="PowerShell" alt="PowerShell" width="80" height="80"/>&nbsp;
-  <img src="./images/tech-icons/git-icon.png" title="Git" alt="Git" width="80" height="80"/>&nbsp;  
+  <img src="./images/tech-icons/kubernetes-icon.png" title="Kubernetes" alt="Kubernetes" width="80" height="80"/>&nbsp;
+  <img src="./images/tech-icons/docker-icon.png" title="Docker" alt="Docker" width="80" height="80"/>&nbsp;
+  <img src="./images/tech-icons/csharp-icon.png" title="CSharp" alt="CSharp" width="80" height="80"/>&nbsp;
+  <img src="./images/tech-icons/dotnet-icon.png" title="dotnet" alt="dotnet" width="80" height="80"/>&nbsp;
+  <img src="./images/tech-icons/scripting-icon.png" title="Scripting" alt="Scripting" width="80" height="80"/>&nbsp;
+  <img src="./images/tech-icons/git-icon.png" title="Git" alt="Git" width="80" height="80"/>&nbsp;
+  <img src="./images/tech-icons/github-icon.png" title="GitHub" alt="GitHub" width="80" height="80"/>&nbsp;
   <img src="./images/tech-icons/sql-icon.png" title="SQL" alt="SQL" width="80" height="80"/>
 </div>
 
@@ -108,4 +108,4 @@ I'm currently contributing to following projects:
 ---
 <sub>Creds for the Cat GIF: Zakmotion @dribbble.com</sub>
 
-<sub>Creds for tech icons: GitHub devicons and Google search</sub>
+<sub>Creds for tech icons: GitHub devicons, icons8.com and Darius Dan @flaticon (Kubernetes icon)</sub>
