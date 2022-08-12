@@ -23,7 +23,7 @@
   </div>
 </div>
 
-## 🧙‍♀️About Me
+## 🧙‍♀️ About Me
 
 :tiger: I'm a techie and a Potterhead. I live in Norway, love coding, cats, coffee and good books. With Animal Welfare at heart.
 
@@ -33,7 +33,7 @@
 
 [![Spotify](https://guidemetothemoon-spotify.vercel.app/api/spotify?background_color=0e030d&border_color=ffffff)](https://open.spotify.com/user/116298200)
 
-## 👩‍💻Tech
+## 👩‍💻 Tech
 
 My main area of interest is secure and sustainable cloud native application development with specialization in Microsoft technologies like Azure and .NET. Below you may see some of the technologies I'm using more or less on a daily basis:
 
@@ -49,7 +49,7 @@ My main area of interest is secure and sustainable cloud native application deve
   <img src="./images/tech-icons/sql-icon.png" title="SQL" alt="SQL" width="80" height="80"/>
 </div>
 
-## 🙌🏼Community Volunteering
+## 🙌🏼 Community Volunteering
 
 * Board member at Norwegian .NET User Group Oslo: [NNUG Oslo](https://www.meetup.com/nnugoslo)
 * Co-organizer at Cloud Native and Kubernetes Oslo:  [Cloud Native and Kubernetes Oslo](https://www.meetup.com/cloud-native-and-kubernetes-oslo)
@@ -59,7 +59,7 @@ My main area of interest is secure and sustainable cloud native application deve
 * Volunteer at Dyrenes Hus animal shelter
 
 
-## 🐾Open Source Contributions
+## 🐾 Open Source Contributions
 
 I'm currently contributing to following projects:
 
@@ -75,7 +75,7 @@ I'm currently contributing to following projects:
   <img alt="Azure Community Hero" src="./images/azure-community-hero.png" width="200" height="200" />
 </p>
 
-## 📜Recent Blog Posts
+## 📜 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Setting up OAuth 2.0 authentication for applications in AKS with NGINX and OAuth2 Proxy](https://kristhecodingunicorn.com/post/k8s_nginx_oauth/)
@@ -90,7 +90,7 @@ I'm currently contributing to following projects:
 - [How to perform static code analysis of .NET Code with Security Code Scan](https://kristhecodingunicorn.com/post/dotnet_sast_scs/)
 <!-- BLOG-POST-LIST:END -->
 
-## 📜Recent Tech Tips
+## 📜 Recent Tech Tips
 
 <!-- TECH-TIPS-LIST:START -->
 - [How to override ASP.NET Core application runtime version](https://kristhecodingunicorn.com/techtips/dotnet_runtime_framework/)
@@ -100,6 +100,17 @@ I'm currently contributing to following projects:
 - [Creating reusable build tasks in Azure DevOps pipelines with templates](https://kristhecodingunicorn.com/techtips/ado_pipeline_template/)
 <!-- TECH-TIPS-LIST:END -->
 
+## 📺 Events (Past and Upcoming)
+
+- 19th September, 2022: [Azure User Group Sweden - Deploying microservices to AKS with Azure DevOps Environments and multi-staged Azure Pipelines](https://azurebacktoschool.github.io/edge%20case/azure-back-to-school-2022-sessions/)
+
+- 10th September, 2022: [Azure Back to School 2022 - Deploying microservices to AKS with Azure DevOps Environments and multi-staged Azure Pipelines](https://www.meetup.com/azureusergroupsundsvallsverige/)
+
+- 1st June, 2022: [Tech Evening @Novanet - From VM to Azure Kubernetes Service and Azure Container Apps](https://www.linkedin.com/posts/novanet-as_azure-kubernetes-bicep-activity-6939949494742466561-otUj?utm_source=linkedin_share&utm_medium=member_desktop_web)
+
+- 30th September, 2021: [Cloud Stories from Norway, Episode 9: Frequent releases with Azure Kubernetes Service (AKS)](https://pulse.microsoft.com/nb-no/transform-nb-no/na/fa2-recap-of-cloud-stories-from-norway-episode-9-frequent-releases-with-aks-and-saving-the-world-with-serverless-in-tietoevry/)
+
+- 26th April, 2021: [How TietoEVRY and Public 360° Promote Growth Mindset and Learning as a Lifestyle - Together with Microsoft](https://www.microsoftpartnercommunity.com/t5/Arrangementer-oppl%C3%A6ringskurs/How-TietoEVRY-and-Public-360-Promote-Growth-Mindset-and-Learning/td-p/40451)
 
 ## 🦆Tweet Tweet
 
