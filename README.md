@@ -31,7 +31,7 @@
 
 :octopus: My biggest passion is tech and my goal is to help other developers to code with sustainability, security and cloud native mindset. I'm also determined to help more ladies to start their journey in tech by mentoring. 
 
-[![Spotify](https://guidemetothemoon-spotify.vercel.app/api/spotify?background_color=30305e&border_color=ffffff)](https://open.spotify.com/user/116298200)
+[![Spotify](https://guidemetothemoon-spotify.vercel.app/api/spotify?background_color=0e030d&border_color=ffffff)](https://open.spotify.com/user/116298200)
 
 ## 👩‍💻Tech
 
