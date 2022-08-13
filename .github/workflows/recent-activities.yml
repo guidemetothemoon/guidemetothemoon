@@ -13,15 +13,13 @@ jobs:
         with:
           max_post_count: 10
           feed_list: "https://kristhecodingunicorn.com/post/index.xml"
-          #template: "<tr><td>$title</td><td>$url</td></tr>"
-          #date_format: "mmm d, yyyy"
+          
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
           comment_tag_name: "TECH-TIPS-LIST"
           feed_list: "https://kristhecodingunicorn.com/techtips/index.xml"
-          #date_format: "mmm dd, yyyy"
+
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
           comment_tag_name: "EVENTS-LIST"
           feed_list: "https://politepol.com/fd/QSndeAikuwqO"
-          template: '$date : [$title]($url)$newline'
