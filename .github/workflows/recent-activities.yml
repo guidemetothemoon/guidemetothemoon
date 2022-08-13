@@ -24,3 +24,4 @@ jobs:
         with:
           comment_tag_name: "EVENTS-LIST"
           feed_list: "https://politepol.com/fd/QSndeAikuwqO"
+          template: '$date : [$title]($url)$newline'
