@@ -63,9 +63,9 @@ My main area of interest is secure and sustainable cloud native application deve
 
 I'm currently contributing to following projects:
 
-**Anatole Hugo Theme:** [anatole](https://github.com/lxndrblz/anatole)
+- **Anatole Hugo Theme:** [anatole](https://github.com/lxndrblz/anatole)
 
-**Sprint Name Generator:** [sprint-name-generator](https://github.com/flostadler/sprint-name-generator)
+- **Sprint Name Generator:** [sprint-name-generator](https://github.com/flostadler/sprint-name-generator)
 
 
 ## 🦡 Badges
