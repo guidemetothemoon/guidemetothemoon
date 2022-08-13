@@ -102,12 +102,11 @@ I'm currently contributing to following projects:
 
 ## 📺 Events (Past and Upcoming)
 
-<!-- EVENTS-LIST:START -->
-- [📺 19th September, 2022: &lt;a href=&quot;https://azurebacktoschool.github.io/edge%20case/azure-back-to-school-2022-sessions/&quot;&gt;Azure User Group Sweden - Deploying microservices to AKS with Azure DevOps Environments and multi-staged Azure Pipelines&lt;/a&gt;](https://kristhecodingunicorn.com/public/#25c1f7ec36f7efb1ffc8a4660177e2c6)
-- [📺 10th September, 2022: &lt;a href=&quot;https://www.meetup.com/azureusergroupsundsvallsverige/&quot;&gt;Azure Back to School 2022 - Deploying microservices to AKS with Azure DevOps Environments and multi-staged Azure Pipelines&lt;/a&gt;](https://kristhecodingunicorn.com/public/#e212f123b90f7b92fda90adad08a6137)
-- [📺 1st June, 2022: &lt;a href=&quot;https://www.linkedin.com/posts/novanet-as_azure-kubernetes-bicep-activity-6939949494742466561-otUj?utm_source=linkedin_share&amp;amp;utm_medium=member_desktop_web&quot;&gt;Tech Evening @Novanet - From VM to Azure Kubernetes Service and Azure Container Apps&lt;/a&gt;](https://kristhecodingunicorn.com/public/#58de830b05084650087a6635fdd6412c)
-- [📺 30th September, 2021: &lt;a href=&quot;https://pulse.microsoft.com/nb-no/transform-nb-no/na/fa2-recap-of-cloud-stories-from-norway-episode-9-frequent-releases-with-aks-and-saving-the-world-with-serverless-in-tietoevry/&quot;&gt;Cloud Stories from Norway, Episode 9: Frequent releases with Azure Kubernetes Service &lpar;AKS&rpar;&lt;/a&gt;](https://kristhecodingunicorn.com/public/#21c0018897463bd6a458e343971270b0)
-- [📝 26th April, 2021: &lt;a href=&quot;https://www.microsoftpartnercommunity.com/t5/Arrangementer-oppl%C3%A6ringskurs/How-TietoEVRY-and-Public-360-Promote-Growth-Mindset-and-Learning/td-p/40451&quot;&gt;How TietoEVRY and Public 360° Promote Growth Mindset and Learning as a Lifestyle - Together with Microsoft&lt;/a&gt;](https://kristhecodingunicorn.com/public/#50bb5da50302d82b6690a7423f6a8796)
+<!-- EVENTS-LIST:START -->Sat Aug 13 2022 1:51 PM : [Azure User Group Sweden - Deploying microservices to AKS with Azure DevOps Environments and multi-staged Azure Pipelines](https://azurebacktoschool.github.io/edge%20case/azure-back-to-school-2022-sessions/)
+Sat Aug 13 2022 1:36 PM : [Azure Back to School 2022 - Deploying microservices to AKS with Azure DevOps Environments and multi-staged Azure Pipelines](https://www.meetup.com/azureusergroupsundsvallsverige/)
+Sat Aug 13 2022 1:21 PM : [Tech Evening @Novanet - From VM to Azure Kubernetes Service and Azure Container Apps](https://www.linkedin.com/posts/novanet-as_azure-kubernetes-bicep-activity-6939949494742466561-otUj?utm_source=linkedin_share&utm_medium=member_desktop_web)
+Sat Aug 13 2022 1:06 PM : [Cloud Stories from Norway, Episode 9: Frequent releases with Azure Kubernetes Service &lpar;AKS&rpar;](https://pulse.microsoft.com/nb-no/transform-nb-no/na/fa2-recap-of-cloud-stories-from-norway-episode-9-frequent-releases-with-aks-and-saving-the-world-with-serverless-in-tietoevry/)
+Sat Aug 13 2022 12:51 PM : [How TietoEVRY and Public 360° Promote Growth Mindset and Learning as a Lifestyle - Together with Microsoft](https://www.microsoftpartnercommunity.com/t5/Arrangementer-oppl%C3%A6ringskurs/How-TietoEVRY-and-Public-360-Promote-Growth-Mindset-and-Learning/td-p/40451)
 <!-- EVENTS-LIST:END -->
 
 ## 🦆Tweet Tweet
