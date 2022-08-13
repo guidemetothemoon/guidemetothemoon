@@ -59,7 +59,7 @@ My main area of interest is secure and sustainable cloud native application deve
 * Volunteer at Dyrenes Hus animal shelter
 
 
-## 🐾 Open Source Contributions
+## 💫 Open Source Contributions
 
 I'm currently contributing to following projects:
 
@@ -68,7 +68,7 @@ I'm currently contributing to following projects:
 - **Sprint Name Generator:** [sprint-name-generator](https://github.com/flostadler/sprint-name-generator)
 
 
-## 🦡 Badges
+## 🚀 Badges
 
 <p float="left">
   <img alt="Azure Content Hero" src="./images/azure-content-hero.png" width="200" height="200" />
@@ -100,7 +100,7 @@ I'm currently contributing to following projects:
 - [Creating reusable build tasks in Azure DevOps pipelines with templates](https://kristhecodingunicorn.com/techtips/ado_pipeline_template/)
 <!-- TECH-TIPS-LIST:END -->
 
-## 📺 Events (Past and Upcoming)
+## 🦄 Events (Past and Upcoming)
 
 <!-- EVENTS-LIST:START -->
 - [📺 19th September, 2022: Azure User Group Sweden - Deploying microservices to AKS with Azure DevOps Environments and multi-staged Azure Pipelines](https://azurebacktoschool.github.io/edge%20case/azure-back-to-school-2022-sessions/)
