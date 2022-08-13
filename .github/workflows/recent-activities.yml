@@ -1,4 +1,4 @@
-name: Retrieve recent blog posts
+name: Retrieve recent blog posts, tech tips and events
 on: 
   workflow_dispatch:
   schedule:
@@ -20,3 +20,7 @@ jobs:
           comment_tag_name: "TECH-TIPS-LIST"
           feed_list: "https://kristhecodingunicorn.com/techtips/index.xml"
           #date_format: "mmm dd, yyyy"
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          comment_tag_name: "EVENTS-LIST"
+          feed_list: "https://politepol.com/fd/QSndeAikuwqO"

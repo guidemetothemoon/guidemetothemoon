@@ -102,15 +102,8 @@ I'm currently contributing to following projects:
 
 ## 📺 Events (Past and Upcoming)
 
-- <ins>**19th September, 2022**</ins>: [Azure User Group Sweden - Deploying microservices to AKS with Azure DevOps Environments and multi-staged Azure Pipelines](https://azurebacktoschool.github.io/edge%20case/azure-back-to-school-2022-sessions/)
-
-- <ins>**10th September, 2022**</ins>: [Azure Back to School 2022 - Deploying microservices to AKS with Azure DevOps Environments and multi-staged Azure Pipelines](https://www.meetup.com/azureusergroupsundsvallsverige/)
-
-- <ins>**1st June, 2022**</ins>: [Tech Evening @Novanet - From VM to Azure Kubernetes Service and Azure Container Apps](https://www.linkedin.com/posts/novanet-as_azure-kubernetes-bicep-activity-6939949494742466561-otUj?utm_source=linkedin_share&utm_medium=member_desktop_web)
-
-- <ins>**30th September, 2021**</ins>: [Cloud Stories from Norway, Episode 9: Frequent releases with Azure Kubernetes Service (AKS)](https://pulse.microsoft.com/nb-no/transform-nb-no/na/fa2-recap-of-cloud-stories-from-norway-episode-9-frequent-releases-with-aks-and-saving-the-world-with-serverless-in-tietoevry/)
-
-- <ins>**26th April, 2021**</ins>: [How TietoEVRY and Public 360° Promote Growth Mindset and Learning as a Lifestyle - Together with Microsoft](https://www.microsoftpartnercommunity.com/t5/Arrangementer-oppl%C3%A6ringskurs/How-TietoEVRY-and-Public-360-Promote-Growth-Mindset-and-Learning/td-p/40451)
+<!-- EVENTS-LIST:START -->
+<!-- EVENTS-LIST:END -->
 
 ## 🦆Tweet Tweet
 
