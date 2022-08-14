@@ -93,11 +93,11 @@ I'm currently contributing to following projects:
 ## 📜 Recent Tech Tips
 
 <!-- TECH-TIPS-LIST:START -->
+- [Kris&#39;s Quick Cup of &lpar;A&rpar;K8S #3 - &lpar;Cluster&rpar;Role management](https://kristhecodingunicorn.com/techtips/kris_daily_k8s_3/)
 - [How to override ASP.NET Core application runtime version](https://kristhecodingunicorn.com/techtips/dotnet_runtime_framework/)
 - [Detect and avoid this certificate validation trap in .NET!](https://kristhecodingunicorn.com/techtips/dotnet_https_validation/)
 - [Log in to Azure AD without active subscription from Azure CLI](https://kristhecodingunicorn.com/techtips/azure_ad_login_subscription/)
 - [Re-using Azure DevOps Environment efficiently across multiple pipelines](https://kristhecodingunicorn.com/techtips/ado_env_as_var/)
-- [Creating reusable build tasks in Azure DevOps pipelines with templates](https://kristhecodingunicorn.com/techtips/ado_pipeline_template/)
 <!-- TECH-TIPS-LIST:END -->
 
 ## 🦄 Events (Past and Upcoming)
