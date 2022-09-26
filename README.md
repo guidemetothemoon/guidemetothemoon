@@ -109,11 +109,11 @@ I'm currently contributing to following projects:
 ## 🦄 Events (Past and Upcoming)
 
 <!-- EVENTS-LIST:START -->
+- [📝 21st September, 2022: Computerworld Norway - Portrait Article - “Sjefsarkitekten med et hjerte av gull”](https://www.cw.no/portrettet/sjefsarkitekten-med-et-hjerte-av-gull/2107676)
+- [📺 20th September, 2022: Azure Cloud Native - AKS Survival Pack: What to consider before going all-in with Azure Kubernetes Service](https://youtu.be/luzZYeSwM-E)
 - [📺 19th September, 2022: Azure Back to School 2022 - Deploying microservices to AKS with Azure DevOps Environments and multi-staged Azure Pipelines](https://youtu.be/ASYY7ZUDjVA)
-- [📺 20th September, 2022: Azure Cloud Native - AKS Survival Pack: What to consider before going all-in with Azure Kubernetes Service](https://www.meetup.com/azure-cloud-native/events/288269226)
 - [📺 10th September, 2022: Azure User Group Sweden - Deploying microservices to AKS with Azure DevOps Environments and multi-staged Azure Pipelines](https://www.meetup.com/azureusergroupsundsvallsverige/events/288300260)
 - [📺 1st June, 2022: Tech Evening @Novanet - From VM to Azure Kubernetes Service and Azure Container Apps](https://www.linkedin.com/posts/novanet-as_azure-kubernetes-bicep-activity-6939949494742466561-otUj?utm_source=linkedin_share&utm_medium=member_desktop_web)
-- [📺 30th September, 2021: Cloud Stories from Norway, Episode 9: Frequent releases with Azure Kubernetes Service &lpar;AKS&rpar;](https://pulse.microsoft.com/nb-no/transform-nb-no/na/fa2-recap-of-cloud-stories-from-norway-episode-9-frequent-releases-with-aks-and-saving-the-world-with-serverless-in-tietoevry/)
 <!-- EVENTS-LIST:END -->
 
 ## 🦆Tweet Tweet
