@@ -109,7 +109,7 @@ I'm currently contributing to following projects:
 ## 🦄 Events (Past and Upcoming)
 
 <!-- EVENTS-LIST:START -->
-- [📺 11th October, 2022: StreamingClouds - Deploying microservices to AKS using Azure DevOps with Kristina Devochko](https://youtu.be/kwCcnojRXdM)
+- [📺 25th October, 2022: StreamingClouds - Deploying microservices to AKS using Azure DevOps with Kristina Devochko](https://youtu.be/kwCcnojRXdM)
 - [📝 21st September, 2022: Computerworld Norway - Portrait Article - “Sjefsarkitekten med et hjerte av gull”](https://www.cw.no/portrettet/sjefsarkitekten-med-et-hjerte-av-gull/2107676)
 - [📺 20th September, 2022: Azure Cloud Native - AKS Survival Pack: What to consider before going all-in with Azure Kubernetes Service](https://youtu.be/luzZYeSwM-E)
 - [📺 19th September, 2022: Azure Back to School 2022 - Deploying microservices to AKS with Azure DevOps Environments and multi-staged Azure Pipelines](https://youtu.be/ASYY7ZUDjVA)
