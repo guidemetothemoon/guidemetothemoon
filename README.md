@@ -106,7 +106,7 @@ I'm currently contributing to following projects:
 - [Detect and avoid this certificate validation trap in .NET!](https://kristhecodingunicorn.com/techtips/dotnet_https_validation/)
 <!-- TECH-TIPS-LIST:END -->
 
-## 🦄 Events (Past and Upcoming)
+## 🦄 Recent Events (Past and Upcoming)
 
 <!-- EVENTS-LIST:START -->
 - [📺 3rd May, 2023: Stockholm Tech Show - Managed Kubernetes Service: Day Zero Survival Pack](https://stockholmtechshow.se/konferens-2023/)
