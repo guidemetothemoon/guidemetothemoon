@@ -99,11 +99,11 @@ I'm currently contributing to following projects:
 ## 📜 Recent Tech Tips
 
 <!-- TECH-TIPS-LIST:START -->
+- [Kris&#39;s Quick Cup of &lpar;A&rpar;K8S #5 - Housekeeping for Kubernetes Contexts](https://kristhecodingunicorn.com/techtips/kris_daily_k8s_5/)
 - [Validating quality of Helm Charts with helm lint](https://kristhecodingunicorn.com/techtips/helm_lint/)
 - [Kris&#39;s Quick Cup of &lpar;A&rpar;K8S #4 - HTTP Application Routing add-on in AKS](https://kristhecodingunicorn.com/techtips/kris_daily_k8s_4/)
 - [Kris&#39;s Quick Cup of &lpar;A&rpar;K8S #3 - &lpar;Cluster&rpar;Role management](https://kristhecodingunicorn.com/techtips/kris_daily_k8s_3/)
 - [How to override ASP.NET Core application runtime version](https://kristhecodingunicorn.com/techtips/dotnet_runtime_framework/)
-- [Detect and avoid this certificate validation trap in .NET!](https://kristhecodingunicorn.com/techtips/dotnet_https_validation/)
 <!-- TECH-TIPS-LIST:END -->
 
 ## 🦄 Recent Events (Past and Upcoming)
