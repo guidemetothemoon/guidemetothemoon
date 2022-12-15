@@ -84,6 +84,7 @@ I'm currently contributing to following projects:
 ## 📜 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[Azure Advent Calendar] Exploring upgrade strategies in Azure Kubernetes Service](https://kristhecodingunicorn.com/post/k8s_upgrade_strategy/)
 - [Applying Dockerfile best practices with Hadolint](https://kristhecodingunicorn.com/post/k8s_hadolint/)
 - [Azure DevOps Auditing - Part 1 - Overview and Streaming to Azure Monitor Logs](https://kristhecodingunicorn.com/post/ado-auditing-1/)
 - [Monitoring Kubernetes API deprecations with Pluto](https://kristhecodingunicorn.com/post/k8s_pluto/)
@@ -93,7 +94,6 @@ I'm currently contributing to following projects:
 - [Continuous Delivery to AKS with Azure DevOps Environments - Part 1](https://kristhecodingunicorn.com/post/k8s_ado_envs-1/)
 - [Improving .NET code quality with NDepend in Visual Studio and Azure DevOps](https://kristhecodingunicorn.com/post/ndepend/)
 - [Cleaning up secrets in Azure DevOps and GitHub repositories with BFG Repo-Cleaner](https://kristhecodingunicorn.com/post/secrets_cleanup/)
-- [How to upgrade NGINX Ingress Controller with zero downtime in production](https://kristhecodingunicorn.com/post/k8s_ic_upgrade/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📜 Recent Tech Tips
