@@ -99,11 +99,11 @@ I'm currently contributing to following projects:
 ## 📜 Recent Tech Tips
 
 <!-- TECH-TIPS-LIST:START -->
+- [How to modify Azure Arc &lpar;or any&rpar; Service Principal scope after creation](https://kristhecodingunicorn.com/techtips/azure_sp_scope/)
 - [How to fix ServiceAccount error in Azure DevOps Environments for Kubernetes clusters v.1.24 and newer](https://kristhecodingunicorn.com/techtips/ado_sa_error/)
 - [Kris&#39;s Quick Cup of &lpar;A&rpar;K8S #5 - Housekeeping for Kubernetes Contexts](https://kristhecodingunicorn.com/techtips/kris_daily_k8s_5/)
 - [Validating quality of Helm Charts with helm lint](https://kristhecodingunicorn.com/techtips/helm_lint/)
 - [Kris&#39;s Quick Cup of &lpar;A&rpar;K8S #4 - HTTP Application Routing add-on in AKS](https://kristhecodingunicorn.com/techtips/kris_daily_k8s_4/)
-- [Kris&#39;s Quick Cup of &lpar;A&rpar;K8S #3 - &lpar;Cluster&rpar;Role management](https://kristhecodingunicorn.com/techtips/kris_daily_k8s_3/)
 <!-- TECH-TIPS-LIST:END -->
 
 ## 🦄 Recent Events (Past and Upcoming)
