@@ -28,7 +28,7 @@
 
 ## 🧙‍♀️ About Me
 
-:tiger: I'm a techie and a Potterhead. I live in Norway, love coding, cats, coffee and good books. With Animal Welfare at heart.
+:tiger: I'm a techie, living in Norway. In love with coding, cats, coffee and good books. With Animal Welfare at heart.
 
 ⛅️ Microsoft MVP (Most Valuable Professional) in Microsoft Azure category.
 
