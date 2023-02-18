@@ -16,11 +16,13 @@ jobs:
           
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
+          max_post_count: 10
           comment_tag_name: "TECH-TIPS-LIST"
           feed_list: "https://kristhecodingunicorn.com/techtips/index.xml"
 
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
+          max_post_count: 10
           comment_tag_name: "EVENTS-LIST"
           feed_list: "https://politepol.com/fd/QSndeAikuwqO"
           disable_sort: true

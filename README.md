@@ -28,7 +28,7 @@
 
 ## 🧙‍♀️ About Me
 
-:tiger: I'm a techie and a Potterhead. I live in Norway, love coding, cats, coffee and good books. With Animal Welfare at heart.
+:tiger: I'm a techie, living in Norway. In love with coding, cats, coffee and good books. With Animal Welfare at heart.
 
 ⛅️ Microsoft MVP (Most Valuable Professional) in Microsoft Azure category.
 
@@ -59,8 +59,9 @@ My main area of interest is secure and sustainable cloud native application deve
 
 ## 🙌🏼 Community Volunteering
 
-* Board member at Norwegian .NET User Group Oslo: [NNUG Oslo](https://www.meetup.com/nnugoslo)
-* Co-organizer at Cloud Native and Kubernetes Oslo:  [Cloud Native and Kubernetes Oslo](https://www.meetup.com/cloud-native-and-kubernetes-oslo)
+* Board member at Norwegian .NET User Group Oslo: [NNUG Oslo](https://www.meetup.com/nnugoslo) and [Cloud Native Norway](https://www.linkedin.com/company/cloudnativenorway/)
+* Co-organizer at [Cloud Native and Kubernetes Oslo](https://www.meetup.com/cloud-native-and-kubernetes-oslo) and [DEVREAL](https://www.meetup.com/devreal/)
+* Community Advocate at [StreamingClouds](http://community.streamingclouds.io/)
 * OWASP volunteer:  [OWASP](https://owasp.org)
 * Mentor at GirlCode: [GirlCode](https://www.girl-code.co.uk/findamentor/kristina-devochko) and WomenTech: [womentech](https://www.womentech.net/women-tech-mentors?combine=Devochko&webform_submission_value_1%5B%5D=Norway)
 * Mentor at TENK Tech Camp Oslo: [TENK Tech Camp](https://tenknorge.com/tenk-tech-camp)
@@ -102,21 +103,31 @@ I'm currently contributing to following projects:
 ## 📜 Recent Tech Tips
 
 <!-- TECH-TIPS-LIST:START -->
+- [How to trigger subsequent GitHub workflow in a different repository](https://kristhecodingunicorn.com/techtips/gh_crossrepo_wf_trigger/)
+- [AKS control plane tiers - what, when and how?](https://kristhecodingunicorn.com/techtips/aks_controlplane_tiers/)
 - [How to modify Azure Arc &lpar;or any&rpar; Service Principal scope after creation](https://kristhecodingunicorn.com/techtips/azure_sp_scope/)
 - [How to fix ServiceAccount error in Azure DevOps Environments for Kubernetes clusters v.1.24 and newer](https://kristhecodingunicorn.com/techtips/ado_sa_error/)
 - [Kris&#39;s Quick Cup of &lpar;A&rpar;K8S #5 - Housekeeping for Kubernetes Contexts](https://kristhecodingunicorn.com/techtips/kris_daily_k8s_5/)
 - [Validating quality of Helm Charts with helm lint](https://kristhecodingunicorn.com/techtips/helm_lint/)
 - [Kris&#39;s Quick Cup of &lpar;A&rpar;K8S #4 - HTTP Application Routing add-on in AKS](https://kristhecodingunicorn.com/techtips/kris_daily_k8s_4/)
+- [Kris&#39;s Quick Cup of &lpar;A&rpar;K8S #3 - &lpar;Cluster&rpar;Role management](https://kristhecodingunicorn.com/techtips/kris_daily_k8s_3/)
+- [How to override ASP.NET Core application runtime version](https://kristhecodingunicorn.com/techtips/dotnet_runtime_framework/)
+- [Detect and avoid this certificate validation trap in .NET!](https://kristhecodingunicorn.com/techtips/dotnet_https_validation/)
 <!-- TECH-TIPS-LIST:END -->
 
 ## 🦄 Recent Events (Past and Upcoming)
 
 <!-- EVENTS-LIST:START -->
-- [📺 17th February, 2023: Come Cloud With Us - Kubernetes Panel Discussion](https://www.meetup.com/comecloudwithus/events/290494259/)
-- [🎙️ 24th January, 2023: Podcast: Azure Triumphs - Stories of people who succeed with Azure](https://kristhecodingunicorn.com/public/)
+- [📺 24th May, 2023: NDC Oslo - AKS Survival Pack: what to consider before going all-in with Azure Kubernetes Service](https://ndcoslo.com/agenda/aks-survival-pack-what-to-consider-before-going-all-in-with-azure-kubernetes-service-0ng9/0ivm3jmy32i)
 - [📺 3rd May, 2023: Stockholm Tech Show - Managed Kubernetes Service: Day Zero Survival Pack](https://stockholmtechshow.se/konferens-2023/)
+- [📺 18. April, 2023: KubeCon + CloudNativeCon Europe 2023: Be the Change Our Planet Seeks: How YOU Can Contribute to Running Environment-Friendly Workloads on Kubernetes](https://kccnceu2023.sched.com/event/1HyW9)
+- [📺 17th March, 2023: DEVREAL Azure Open Source Breakfast - Exploring chaos engineering…the FUN way!](https://www.meetup.com/devreal/events/291534679/)
+- [📺 16th March, 2023: KCD Ukraine - Managed Kubernetes Service: Day Zero Survival Pack](https://community.cncf.io/events/details/cncf-kcd-ukraine-presents-kcd-ukraine-2023-fundraiser/)
+- [📺 28. February, 2023: Wilhelmsen employee event - Security Champions Workshop #3: DevSecOps for AKS](https://kristhecodingunicorn.com/public/)
+- [📺 23. February, 2023: KCD Amsterdam - Managed Kubernetes Service: Day Zero Survival Pack](https://community.cncf.io/events/details/cncf-kcd-netherlands-presents-kubernetes-community-days-amsterdam-2023/)
+- [📺 17th February, 2023: Come Cloud With Us - Kubernetes Panel Discussion](https://www.meetup.com/comecloudwithus/events/290494259/)
+- [📺 15th February, 2023: Welsh Azure User Group - Deploying microservices to AKS with Azure DevOps Environments and multi-staged Azure Pipelines](https://www.meetup.com/msft-stack/events/290761057/)
 - [📺 8th February, 2023: Swetugg 2023 - Standardizing microservice-to-AKS workflow with dotnet custom templates and Azure DevOps](https://swetugg.se/sthlm-2023/speakers/kristina-devochko#standardizing-microservice-to-aks-workflow-with-dotnet-custom-templates-and-azure-devops)
-- [📺 21st December, 2022: Festive Tech Calendar - Can we prevent the Grinch from stealing Christmas with chaos engineering?](https://festivetechcalendar.com/#sz-tab-44916)
 <!-- EVENTS-LIST:END -->
 
 ## 🦆Tweet Tweet
