@@ -46,12 +46,15 @@ My main area of interest is secure and sustainable cloud native application deve
   <img src="./images/tech-icons/azure-original-wordmark.svg" title="Microsoft Azure" alt="Microsoft Azure" width="80" height="80"/>&nbsp;
   <img src="./images/tech-icons/kubernetes-icon.png" title="Kubernetes" alt="Kubernetes" width="80" height="80"/>&nbsp;
   <img src="./images/tech-icons/docker-icon.png" title="Docker" alt="Docker" width="80" height="80"/>&nbsp;
+  <img src="./images/tech-icons/terraform-icon.png" title="Terraform" alt="Terraform" width="80" height="80"/>&nbsp;
   <img src="./images/tech-icons/csharp-icon.png" title="CSharp" alt="CSharp" width="80" height="80"/>&nbsp;
   <img src="./images/tech-icons/dotnet-icon.png" title="dotnet" alt="dotnet" width="80" height="80"/>&nbsp;
   <img src="./images/tech-icons/scripting-icon.png" title="Scripting" alt="Scripting" width="80" height="80"/>&nbsp;
   <img src="./images/tech-icons/git-icon.png" title="Git" alt="Git" width="80" height="80"/>&nbsp;
   <img src="./images/tech-icons/github-icon.png" title="GitHub" alt="GitHub" width="80" height="80"/>&nbsp;
   <img src="./images/tech-icons/sql-icon.png" title="SQL" alt="SQL" width="80" height="80"/>
+  <img src="./images/tech-icons/octopus-icon.png" title="Octopus Deploy" alt="Octopus Deploy" width="80" height="80"/>
+  <img src="./images/tech-icons/hugo-icon.png" title="Hugo Server" alt="Hugo Server" width="80" height="80"/>
 </div>
 
 ## 🙌🏼 Community Volunteering
