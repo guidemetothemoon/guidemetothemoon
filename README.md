@@ -88,6 +88,7 @@ I'm currently contributing to following projects:
 ## 📜 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Keeping AKS clusters continuously secure with Azure Policy](https://kristhecodingunicorn.com/post/aks_azure_policy/)
 - [[🎄.NET Advent Calendar🎄] Strengthening security posture of containerized .NET applications with Chiseled Ubuntu Containers](https://kristhecodingunicorn.com/post/dotnet_ubuntu_chiseled/)
 - [[🎄Azure Advent Calendar🎄] Exploring upgrade strategies in Azure Kubernetes Service](https://kristhecodingunicorn.com/post/k8s_upgrade_strategy/)
 - [Applying Dockerfile best practices with Hadolint](https://kristhecodingunicorn.com/post/k8s_hadolint/)
@@ -97,7 +98,6 @@ I'm currently contributing to following projects:
 - [Accelerated Networking for AKS nodes](https://kristhecodingunicorn.com/post/k8s_an/)
 - [Continuous Delivery to AKS with Azure DevOps Environments - Part 2](https://kristhecodingunicorn.com/post/k8s_ado_envs-2/)
 - [Continuous Delivery to AKS with Azure DevOps Environments - Part 1](https://kristhecodingunicorn.com/post/k8s_ado_envs-1/)
-- [Improving .NET code quality with NDepend in Visual Studio and Azure DevOps](https://kristhecodingunicorn.com/post/ndepend/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📜 Recent Tech Tips
