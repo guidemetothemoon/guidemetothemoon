@@ -121,13 +121,13 @@ I'm currently contributing to following projects:
 - [📺 24th May, 2023: NDC Oslo - AKS Survival Pack: what to consider before going all-in with Azure Kubernetes Service](https://ndcoslo.com/agenda/aks-survival-pack-what-to-consider-before-going-all-in-with-azure-kubernetes-service-0ng9/0ivm3jmy32i)
 - [📺 3rd May, 2023: Stockholm Tech Show - Managed Kubernetes Service: Day Zero Survival Pack](https://stockholmtechshow.se/konferens-2023/)
 - [📺 18. April, 2023: KubeCon + CloudNativeCon Europe 2023: Be the Change Our Planet Seeks: How YOU Can Contribute to Running Environment-Friendly Workloads on Kubernetes](https://kccnceu2023.sched.com/event/1HyW9)
+- [📺 20th March, 2023: Azure User Group Norway - Deploying microservices to AKS with Azure DevOps Environments and multi-staged Azure Pipelines](https://www.meetup.com/azure-user-group-norway/events/291904115)
 - [📺 17th March, 2023: DEVREAL Azure Open Source Breakfast - Exploring chaos engineering…the FUN way!](https://www.meetup.com/devreal/events/291534679/)
 - [📺 16th March, 2023: KCD Ukraine - Managed Kubernetes Service: Day Zero Survival Pack](https://community.cncf.io/events/details/cncf-kcd-ukraine-presents-kcd-ukraine-2023-fundraiser/)
 - [📺 28. February, 2023: Wilhelmsen employee event - Security Champions Workshop #3: DevSecOps for AKS](https://kristhecodingunicorn.com/public/)
 - [📺 23. February, 2023: KCD Amsterdam - Managed Kubernetes Service: Day Zero Survival Pack](https://community.cncf.io/events/details/cncf-kcd-netherlands-presents-kubernetes-community-days-amsterdam-2023/)
 - [📺 17th February, 2023: Come Cloud With Us - Kubernetes Panel Discussion](https://www.meetup.com/comecloudwithus/events/290494259/)
 - [📺 15th February, 2023: Welsh Azure User Group - Deploying microservices to AKS with Azure DevOps Environments and multi-staged Azure Pipelines](https://www.meetup.com/msft-stack/events/290761057/)
-- [📺 8th February, 2023: Swetugg 2023 - Standardizing microservice-to-AKS workflow with dotnet custom templates and Azure DevOps](https://swetugg.se/sthlm-2023/speakers/kristina-devochko#standardizing-microservice-to-aks-workflow-with-dotnet-custom-templates-and-azure-devops)
 <!-- EVENTS-LIST:END -->
 
 ## 🦆Tweet Tweet
