@@ -28,19 +28,21 @@
 
 ## 🧙‍♀️ About Me
 
-:tiger: I'm a techie, living in Norway. In love with coding, cats, coffee and good books. With Animal Welfare at heart.
+:tiger: A techie from Norway who loves preaching about all things Cloud Native, Kubernetes, Green Tech and cats. I am also an active supporter of sustainability in tech and outside of it, and animal welfare. 
 
-⛅️ Microsoft MVP (Most Valuable Professional) in Microsoft Azure category.
+🎙️ Co-Host at Kubernetes Unpacked podcast.
 
-:whale2: I'm following Learning as a lifestyle mindset and love sharing my knowledge with the community.
+⛅️ Microsoft Azure MVP and CNCF Ambassador.
 
-:octopus: My biggest passion is tech and my goal is to help other developers to code with sustainability, security and cloud native mindset. I'm also determined to help more ladies to start their journey in tech by mentoring. 
+:whale2: I love learning new things and sharing my journey and experiences with others. My goal is to inspire others developers to code with sustainability, security and cloud native principles in mind. I also hope that with my actions and contributions I can inspire and motivate more ladies to join the world of tech!
+
+:octopus: I strongly believe that contributing to making this world a better place by volunteering is something all of us should consider doing, therefore being a volunteer is a big part of my life. Both when it comes to contributing back to tech community and non-profit organizations making a crucial positive impact in other areas of our life on this planet. 
 
 [![Spotify](https://guidemetothemoon-spotify.vercel.app/api/spotify?background_color=0e030d&border_color=ffffff)](https://open.spotify.com/user/116298200)
 
 ## 👩‍💻 Tech
 
-My main area of interest is secure and sustainable cloud native application development with specialization in Microsoft technologies like Azure and .NET. Below you may see some of the technologies I'm using more or less on a daily basis:
+My main area of interest is secure and sustainable cloud native application development. Some of the technologies I'm working with:
 
 <div id="tech-icons">
   <img src="./images/tech-icons/azure-original-wordmark.svg" title="Microsoft Azure" alt="Microsoft Azure" width="80" height="80"/>&nbsp;
@@ -60,7 +62,7 @@ My main area of interest is secure and sustainable cloud native application deve
 ## 🙌🏼 Community Volunteering
 
 * Board member at Norwegian .NET User Group Oslo: [NNUG Oslo](https://www.meetup.com/nnugoslo) and [Cloud Native Norway](https://www.linkedin.com/company/cloudnativenorway/)
-* Co-organizer at [Cloud Native and Kubernetes Oslo](https://www.meetup.com/cloud-native-and-kubernetes-oslo) and [DEVREAL](https://www.meetup.com/devreal/)
+* Co-organizer at [Cloud Native and Kubernetes Oslo](https://www.meetup.com/cloud-native-and-kubernetes-oslo) and [DEVREAL Oslo](https://www.meetup.com/devreal/)
 * Community Advocate at [StreamingClouds](http://community.streamingclouds.io/)
 * OWASP volunteer:  [OWASP](https://owasp.org)
 * Mentor at GirlCode: [GirlCode](https://www.girl-code.co.uk/findamentor/kristina-devochko) and WomenTech: [womentech](https://www.womentech.net/women-tech-mentors?combine=Devochko&webform_submission_value_1%5B%5D=Norway)
@@ -81,6 +83,7 @@ I'm currently contributing to following projects:
 
 <p float="left">
   <img alt="Microsoft MVP" src="./images/mvp_logo.png" width="200" height="200" />
+  <img alt="Microsoft MVP" src="./images/cncf-ambassador-spring-2023.png" width="200" height="200" />
   <img alt="Azure Content Hero" src="./images/azure-content-hero.png" width="200" height="200" />
   <img alt="Azure Community Hero" src="./images/azure-community-hero.png" width="200" height="200" />  
 </p>
