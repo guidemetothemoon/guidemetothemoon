@@ -91,6 +91,7 @@ I'm currently contributing to following projects:
 ## 📜 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Creating custom Azure Policy for Kubernetes to disallow non-compliant image registries](https://kristhecodingunicorn.com/post/k8s_deprecated_registry_azpolicy/)
 - [Keeping AKS clusters continuously secure with Azure Policy](https://kristhecodingunicorn.com/post/aks_azure_policy/)
 - [[🎄.NET Advent Calendar🎄] Strengthening security posture of containerized .NET applications with Chiseled Ubuntu Containers](https://kristhecodingunicorn.com/post/dotnet_ubuntu_chiseled/)
 - [[🎄Azure Advent Calendar🎄] Exploring upgrade strategies in Azure Kubernetes Service](https://kristhecodingunicorn.com/post/k8s_upgrade_strategy/)
@@ -100,7 +101,6 @@ I'm currently contributing to following projects:
 - [Setting up OAuth 2.0 authentication for applications in AKS with NGINX and OAuth2 Proxy](https://kristhecodingunicorn.com/post/k8s_nginx_oauth/)
 - [Accelerated Networking for AKS nodes](https://kristhecodingunicorn.com/post/k8s_an/)
 - [Continuous Delivery to AKS with Azure DevOps Environments - Part 2](https://kristhecodingunicorn.com/post/k8s_ado_envs-2/)
-- [Continuous Delivery to AKS with Azure DevOps Environments - Part 1](https://kristhecodingunicorn.com/post/k8s_ado_envs-1/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📜 Recent Tech Tips
