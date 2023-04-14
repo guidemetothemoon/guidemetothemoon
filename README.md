@@ -28,7 +28,7 @@
 
 ## 🧙‍♀️ About Me
 
-:tiger: A techie from Norway who loves preaching about all things Cloud Native, Kubernetes, Green Tech and cats. I am also an active supporter of sustainability in tech and outside of it, and animal welfare. 
+:tiger: A techie from Norway who loves preaching about all things cloud native, Kubernetes, green tech and cats. I am also an active supporter of sustainability in tech and outside of it, and animal welfare. 
 
 🎙️ Co-Host at Kubernetes Unpacked podcast.
 
