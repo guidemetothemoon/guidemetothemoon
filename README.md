@@ -67,7 +67,7 @@ My main area of interest is secure and sustainable cloud native application deve
 * OWASP volunteer:  [OWASP](https://owasp.org)
 * Mentor at GirlCode: [GirlCode](https://www.girl-code.co.uk/findamentor/kristina-devochko) and WomenTech: [womentech](https://www.womentech.net/women-tech-mentors?combine=Devochko&webform_submission_value_1%5B%5D=Norway)
 * Mentor at TENK Tech Camp Oslo: [TENK Tech Camp](https://tenknorge.com/tenk-tech-camp)
-* Volunteer at Dyrenes Hus animal shelter
+* Volunteer at an animal shelter
 
 
 ## 💫 Open Source Contributions
