@@ -79,6 +79,8 @@ I'm currently contributing to following projects:
 ## 📜 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Resolving Application Insights performance counters collection issue for .NET applications](https://kristhecodingunicorn.com/post/appinsights_perfcounters/)
+- [Scanning Azure VMs, Azure Arc-enabled servers and ACR images for vulnerabilities with Microsoft Defender and Qualys](https://kristhecodingunicorn.com/post/azure_qualys/)
 - [Takeaways from attending KubeCon+CloudNativeCon Europe 2023, wearing many hats](https://kristhecodingunicorn.com/post/kubecon_cloudnativecon_eu_2023/)
 - [Creating custom Azure Policy for Kubernetes to disallow non-compliant image registries](https://kristhecodingunicorn.com/post/k8s_deprecated_registry_azpolicy/)
 - [Keeping AKS clusters continuously secure with Azure Policy](https://kristhecodingunicorn.com/post/aks_azure_policy/)
@@ -87,8 +89,6 @@ I'm currently contributing to following projects:
 - [Applying Dockerfile best practices with Hadolint](https://kristhecodingunicorn.com/post/k8s_hadolint/)
 - [Azure DevOps Auditing - Part 1 - Overview and Streaming to Azure Monitor Logs](https://kristhecodingunicorn.com/post/ado-auditing-1/)
 - [Monitoring Kubernetes API deprecations with Pluto](https://kristhecodingunicorn.com/post/k8s_pluto/)
-- [Setting up OAuth 2.0 authentication for applications in AKS with NGINX and OAuth2 Proxy](https://kristhecodingunicorn.com/post/k8s_nginx_oauth/)
-- [Accelerated Networking for AKS nodes](https://kristhecodingunicorn.com/post/k8s_an/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📜 Recent Tech Tips
