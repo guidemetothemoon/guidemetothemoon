@@ -71,7 +71,8 @@ I'm currently contributing to following projects:
 
 <p float="left">
   <img alt="Microsoft MVP" src="./images/mvp_logo.png" width="200" height="200" />
-  <img alt="Microsoft MVP" src="./images/cncf-ambassador-spring-2023.png" width="200" height="200" />
+  <img alt="CNCF Ambassador" src="./images/cncf-ambassador-spring-2023.png" width="200" height="200" />
+  <img alt="KubeCon+CloudNativeCon EU 2023 Speaker" src="./images/speaker-kubecon-2023.png" width="200" height="200" />
   <img alt="Azure Content Hero" src="./images/azure-content-hero.png" width="200" height="200" />
   <img alt="Azure Community Hero" src="./images/azure-community-hero.png" width="200" height="200" />  
 </p>
