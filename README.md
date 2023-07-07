@@ -80,6 +80,7 @@ I'm currently contributing to following projects:
 ## 📜 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to get all Azure Policy assignments of a specific category?](https://kristhecodingunicorn.com/post/azpolicy_category_assignments/)
 - [Resolving Application Insights performance counters collection issue for .NET applications](https://kristhecodingunicorn.com/post/appinsights_perfcounters/)
 - [Scanning Azure VMs, Azure Arc-enabled servers and ACR images for vulnerabilities with Microsoft Defender and Qualys](https://kristhecodingunicorn.com/post/azure_qualys/)
 - [Takeaways from attending KubeCon+CloudNativeCon Europe 2023, wearing many hats](https://kristhecodingunicorn.com/post/kubecon_cloudnativecon_eu_2023/)
@@ -89,7 +90,6 @@ I'm currently contributing to following projects:
 - [[🎄Azure Advent Calendar🎄] Exploring upgrade strategies in Azure Kubernetes Service](https://kristhecodingunicorn.com/post/k8s_upgrade_strategy/)
 - [Applying Dockerfile best practices with Hadolint](https://kristhecodingunicorn.com/post/k8s_hadolint/)
 - [Azure DevOps Auditing - Part 1 - Overview and Streaming to Azure Monitor Logs](https://kristhecodingunicorn.com/post/ado-auditing-1/)
-- [Monitoring Kubernetes API deprecations with Pluto](https://kristhecodingunicorn.com/post/k8s_pluto/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📜 Recent Tech Tips
@@ -110,6 +110,8 @@ I'm currently contributing to following projects:
 ## 🦄 Recent Events (Past and Upcoming)
 
 <!-- EVENTS-LIST:START -->
+- [📺 27th June, 2023: InfoQ Live Panel Discussion - Beyond Default Settings: Evaluating the Security of Kubernetes and Cloud Native Environments](https://live.infoq.com)
+- [📺 21st June, 2023: Cloud Native and Kubernetes Oslo - Sustainable Kubernetes and how YOU can make an impact](https://www.meetup.com/cloud-native-and-kubernetes-oslo/events/294099940)
 - [📺 24th May, 2023: NDC Oslo - AKS Survival Pack: what to consider before going all-in with Azure Kubernetes Service](https://ndcoslo.com/agenda/aks-survival-pack-what-to-consider-before-going-all-in-with-azure-kubernetes-service-0ng9/0ivm3jmy32i)
 - [📺 18. April, 2023: KubeCon + CloudNativeCon Europe 2023: Be the Change Our Planet Seeks: How YOU Can Contribute to Running Environment-Friendly Workloads on Kubernetes](https://kccnceu2023.sched.com/event/1HyW9)
 - [📺 20th March, 2023: Azure User Group Norway - Deploying microservices to AKS with Azure DevOps Environments and multi-staged Azure Pipelines](https://www.meetup.com/azure-user-group-norway/events/291904115)
@@ -118,8 +120,6 @@ I'm currently contributing to following projects:
 - [📺 28. February, 2023: Wilhelmsen employee event - Security Champions Workshop #3: DevSecOps for AKS](https://kristhecodingunicorn.com/public/)
 - [📺 23. February, 2023: KCD Amsterdam - Managed Kubernetes Service: Day Zero Survival Pack](https://community.cncf.io/events/details/cncf-kcd-netherlands-presents-kubernetes-community-days-amsterdam-2023/)
 - [📺 17th February, 2023: Come Cloud With Us - Kubernetes Panel Discussion](https://www.meetup.com/comecloudwithus/events/290494259/)
-- [📺 15th February, 2023: Welsh Azure User Group - Deploying microservices to AKS with Azure DevOps Environments and multi-staged Azure Pipelines](https://www.meetup.com/msft-stack/events/290761057/)
-- [📺 8th February, 2023: Swetugg 2023 - Standardizing microservice-to-AKS workflow with dotnet custom templates and Azure DevOps](https://swetugg.se/sthlm-2023/speakers/kristina-devochko#standardizing-microservice-to-aks-workflow-with-dotnet-custom-templates-and-azure-devops)
 <!-- EVENTS-LIST:END -->
 
 ## 🦆Tweet Tweet
