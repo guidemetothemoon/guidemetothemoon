@@ -115,6 +115,7 @@ I'm currently contributing to following projects:
 ## 🦄 Recent Events (Past and Upcoming)
 
 <!-- EVENTS-LIST:START -->
+- [📺 12th July, 2023: Cloud Lunch &amp; Learn - Deploying microservices to AKS with ADO Environments and multi-staged Pipelines](https://www.meetup.com/azuredublin/events/294393334)
 - [📺 27th June, 2023: InfoQ Live Panel Discussion - Beyond Default Settings: Evaluating the Security of Kubernetes and Cloud Native Environments](https://live.infoq.com)
 - [📺 21st June, 2023: Cloud Native and Kubernetes Oslo - Sustainable Kubernetes and how YOU can make an impact](https://www.meetup.com/cloud-native-and-kubernetes-oslo/events/294099940)
 - [📺 24th May, 2023: NDC Oslo - AKS Survival Pack: what to consider before going all-in with Azure Kubernetes Service](https://ndcoslo.com/agenda/aks-survival-pack-what-to-consider-before-going-all-in-with-azure-kubernetes-service-0ng9/0ivm3jmy32i)
@@ -124,7 +125,6 @@ I'm currently contributing to following projects:
 - [📺 16th March, 2023: KCD Ukraine - Managed Kubernetes Service: Day Zero Survival Pack](https://community.cncf.io/events/details/cncf-kcd-ukraine-presents-kcd-ukraine-2023-fundraiser/)
 - [📺 28. February, 2023: Wilhelmsen employee event - Security Champions Workshop #3: DevSecOps for AKS](https://kristhecodingunicorn.com/public/)
 - [📺 23. February, 2023: KCD Amsterdam - Managed Kubernetes Service: Day Zero Survival Pack](https://community.cncf.io/events/details/cncf-kcd-netherlands-presents-kubernetes-community-days-amsterdam-2023/)
-- [📺 17th February, 2023: Come Cloud With Us - Kubernetes Panel Discussion](https://www.meetup.com/comecloudwithus/events/290494259/)
 <!-- EVENTS-LIST:END -->
 
 ## 🦆Tweet Tweet
