@@ -115,6 +115,7 @@ I'm currently contributing to following projects:
 ## 🦄 Recent Events (Past and Upcoming)
 
 <!-- EVENTS-LIST:START -->
+- [📺 26th July, 2023: Cloud Lunch &amp; Learn - Managed Kubernetes Service: Day Zero Survival Pack](https://www.meetup.com/azuredublin/events/294393389)
 - [📺 12th July, 2023: Cloud Lunch &amp; Learn - Deploying microservices to AKS with ADO Environments and multi-staged Pipelines](https://www.meetup.com/azuredublin/events/294393334)
 - [📺 27th June, 2023: InfoQ Live Panel Discussion - Beyond Default Settings: Evaluating the Security of Kubernetes and Cloud Native Environments](https://www.infoq.com/presentations/kubernetes-security-cloud-native)
 - [📺 21st June, 2023: Cloud Native and Kubernetes Oslo - Sustainable Kubernetes and how YOU can make an impact](https://www.meetup.com/cloud-native-and-kubernetes-oslo/events/294099940)
@@ -124,7 +125,6 @@ I'm currently contributing to following projects:
 - [📺 17th March, 2023: DEVREAL Azure Open Source Breakfast - Exploring chaos engineering…the FUN way!](https://www.meetup.com/devreal/events/291534679/)
 - [📺 16th March, 2023: KCD Ukraine - Managed Kubernetes Service: Day Zero Survival Pack](https://community.cncf.io/events/details/cncf-kcd-ukraine-presents-kcd-ukraine-2023-fundraiser/)
 - [📺 28. February, 2023: Wilhelmsen employee event - Security Champions Workshop #3: DevSecOps for AKS](https://kristhecodingunicorn.com/public/)
-- [📺 23. February, 2023: KCD Amsterdam - Managed Kubernetes Service: Day Zero Survival Pack](https://community.cncf.io/events/details/cncf-kcd-netherlands-presents-kubernetes-community-days-amsterdam-2023/)
 <!-- EVENTS-LIST:END -->
 
 ## 🦆Tweet Tweet
