@@ -85,6 +85,7 @@ I'm currently contributing to following projects:
 ## 📜 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Kubernetes port forwarding: cleaning up orphaned ports](https://kristhecodingunicorn.com/post/k8s_port_forwarding_cleanup/)
 - [How to get all Azure Policy assignments of a specific category?](https://kristhecodingunicorn.com/post/azpolicy_category_assignments/)
 - [Resolving Application Insights performance counters collection issue for .NET applications](https://kristhecodingunicorn.com/post/appinsights_perfcounters/)
 - [Scanning Azure VMs, Azure Arc-enabled servers and ACR images for vulnerabilities with Microsoft Defender and Qualys](https://kristhecodingunicorn.com/post/azure_qualys/)
@@ -94,7 +95,6 @@ I'm currently contributing to following projects:
 - [[🎄.NET Advent Calendar🎄] Strengthening security posture of containerized .NET applications with Chiseled Ubuntu Containers](https://kristhecodingunicorn.com/post/dotnet_ubuntu_chiseled/)
 - [[🎄Azure Advent Calendar🎄] Exploring upgrade strategies in Azure Kubernetes Service](https://kristhecodingunicorn.com/post/k8s_upgrade_strategy/)
 - [Applying Dockerfile best practices with Hadolint](https://kristhecodingunicorn.com/post/k8s_hadolint/)
-- [Azure DevOps Auditing - Part 1 - Overview and Streaming to Azure Monitor Logs](https://kristhecodingunicorn.com/post/ado-auditing-1/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📜 Recent Tech Tips
