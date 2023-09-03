@@ -16,15 +16,21 @@
 
 ## 🧙‍♀️ About Me
 
-:tiger: A techie from Norway who loves preaching about all things cloud native, Kubernetes, green tech and cats. I am also an active supporter of sustainability in tech and outside of it, and animal welfare. 
+:tiger: A techie from Norway who loves preaching about all things cloud native, Kubernetes, green tech and cats. I am also an active supporter of sustainability in tech and outside of it, and animal welfare.
 
-🎙️ Co-Host at Kubernetes Unpacked podcast.
+⛅️ Microsoft Azure MVP and CNCF Ambassador
 
-⛅️ Microsoft Azure MVP and CNCF Ambassador.
+💚 Founder of [Green Software Foundation Oslo](https://www.meetup.com/gsf-oslo) meetup group
+
+🌱 [CNCF Green Reviews Working Group](https://github.com/cncf/tag-env-sustainability/tree/main/working-groups/green-reviews) chair
+
+🎙️ Co-Host at [Kubernetes Unpacked](https://packetpushers.net/series/kubernetes-unpacked) podcast
+
+🚀 [Kubernetes and Cloud Native Community Days (KCD) Oslo 2024](https://community.cncf.io/events/details/cncf-kcd-norway-presents-kcd-oslo-2024) organizer
 
 :whale2: I love learning new things and sharing my journey and experiences with others. My goal is to inspire others developers to code with sustainability, security and cloud native principles in mind. I also hope that with my actions and contributions I can inspire and motivate more ladies to join the world of tech!
 
-:octopus: I strongly believe that contributing to making this world a better place by volunteering is something all of us should consider doing, therefore being a volunteer is a big part of my life. Both when it comes to contributing back to tech community and non-profit organizations making a crucial positive impact in other areas of our life on this planet. 
+:octopus: I strongly believe that contributing to making this world a better place by volunteering is something all of us should consider doing, therefore being a volunteer is a big part of my life. Both when it comes to contributing back to tech community and non-profit organizations making a crucial positive impact in other areas of our life on this planet.
 
 [![Spotify](https://guidemetothemoon-spotify.vercel.app/api/spotify?background_color=0e030d&border_color=ffffff)](https://open.spotify.com/user/116298200)
 
@@ -55,20 +61,17 @@ My main area of interest is secure and sustainable cloud native application deve
 * Community Advocate at [StreamingClouds](http://community.streamingclouds.io)
 * OWASP volunteer:  [OWASP](https://owasp.org)
 * Mentor at GirlCode: [GirlCode](https://www.girl-code.co.uk/findamentor/kristina-devochko) and WomenTech: [womentech](https://www.womentech.net/women-tech-mentors?combine=Devochko&webform_submission_value_1%5B%5D=Norway)
-* Mentor at TENK Tech Camp Oslo: [TENK Tech Camp](https://tenknorge.com/tenk-tech-camp)
 * Volunteer at an animal shelter
-
 
 ## 💫 Open Source Contributions
 
 I'm currently contributing to following projects:
 
-- **Anatole Hugo Theme:** [anatole](https://github.com/lxndrblz/anatole)
+* **Anatole Hugo Theme:** [anatole](https://github.com/lxndrblz/anatole)
 
-- **Sprint Name Generator:** [sprint-name-generator](https://github.com/flostadler/sprint-name-generator)
+* **Sprint Name Generator:** [sprint-name-generator](https://github.com/flostadler/sprint-name-generator)
 
-- **TAG Environmental Sustainability:** [tag-env-sustainability](https://github.com/cncf/tag-env-sustainability) 
-
+* **TAG Environmental Sustainability:** [tag-env-sustainability](https://github.com/cncf/tag-env-sustainability)
 
 ## 🚀 Badges
 
@@ -78,8 +81,7 @@ I'm currently contributing to following projects:
   <img alt="KubeCon+CloudNativeCon EU 2023 Speaker" src="./images/speaker-kubecon-2023.png" width="200" height="200" /> 
   <br>
   <img alt="Azure Content Hero" src="./images/azure-content-hero.png" width="200" height="200" />
-  <img alt="Azure Community Hero" src="./images/azure-community-hero.png" width="200" height="200" />
-  
+  <img alt="Azure Community Hero" src="./images/azure-community-hero.png" width="200" height="200" />  
 </p>
 
 ## 📜 Recent Blog Posts
