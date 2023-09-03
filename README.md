@@ -115,16 +115,16 @@ I'm currently contributing to following projects:
 ## 🦄 Recent Events (Past and Upcoming)
 
 <!-- EVENTS-LIST:START -->
+- [📺 25th October, 2023: MVP-Dagen Oslo - Exploring GitOps on Azure](https://mvp-dagen-2023.sessionize.com/session/513076)
+- [📺 11th October, 2023: Women on Stage Global Virtual Conference 2023 - Exploring chaos engineering…the FUN way!](https://www.womenonstage.net/global-virtual-conference-2023)
+- [📺 9th October, 2023: GSF Oslo October meetup - Getting started with green software and cloud native sustainability](https://www.meetup.com/gsf-oslo/events/295698438)
+- [📺 20th September, 2023: Microsoft Build Norway - Exploring DevSecOps controls for Kubernetes throughout the value chain](https://msevents.microsoft.com/event?id=3464278356)
+- [📺 16th September, 2023: Microsoft Azure Pakistan Community - AKS Survival Pack: what to consider before going all-in with AKS](https://www.meetup.com/Microsoft-Azure-Pakistan-Community/events/294272415)
+- [📝 25th August, 2023: kode24 article - “Lanserer klimanettverk for utviklere”](https://www.kode24.no/artikkel/lanserer-klimanettverk-for-utviklere-mange-er-negative/80111720)
 - [📺 26th July, 2023: Cloud Lunch &amp; Learn - Managed Kubernetes Service: Day Zero Survival Pack](https://www.meetup.com/azuredublin/events/294393389)
 - [📺 12th July, 2023: Cloud Lunch &amp; Learn - Deploying microservices to AKS with ADO Environments and multi-staged Pipelines](https://www.meetup.com/azuredublin/events/294393334)
 - [📺 27th June, 2023: InfoQ Live Panel Discussion - Beyond Default Settings: Evaluating the Security of Kubernetes and Cloud Native Environments](https://www.infoq.com/presentations/kubernetes-security-cloud-native)
 - [📺 21st June, 2023: Cloud Native and Kubernetes Oslo - Sustainable Kubernetes and how YOU can make an impact](https://www.meetup.com/cloud-native-and-kubernetes-oslo/events/294099940)
-- [📺 24th May, 2023: NDC Oslo - AKS Survival Pack: what to consider before going all-in with Azure Kubernetes Service](https://ndcoslo.com/agenda/aks-survival-pack-what-to-consider-before-going-all-in-with-azure-kubernetes-service-0ng9/0ivm3jmy32i)
-- [📺 18. April, 2023: KubeCon + CloudNativeCon Europe 2023: Be the Change Our Planet Seeks: How YOU Can Contribute to Running Environment-Friendly Workloads on Kubernetes](https://kccnceu2023.sched.com/event/1HyW9)
-- [📺 20th March, 2023: Azure User Group Norway - Deploying microservices to AKS with Azure DevOps Environments and multi-staged Azure Pipelines](https://www.meetup.com/azure-user-group-norway/events/291904115)
-- [📺 17th March, 2023: DEVREAL Azure Open Source Breakfast - Exploring chaos engineering…the FUN way!](https://www.meetup.com/devreal/events/291534679/)
-- [📺 16th March, 2023: KCD Ukraine - Managed Kubernetes Service: Day Zero Survival Pack](https://community.cncf.io/events/details/cncf-kcd-ukraine-presents-kcd-ukraine-2023-fundraiser/)
-- [📺 28. February, 2023: Wilhelmsen employee event - Security Champions Workshop #3: DevSecOps for AKS](https://kristhecodingunicorn.com/public/)
 <!-- EVENTS-LIST:END -->
 
 ## 🦆Tweet Tweet
