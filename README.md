@@ -76,13 +76,13 @@ I'm currently contributing to following projects:
 ## 🚀 Badges
 
 <p float="left">
-  <img alt="Microsoft MVP" src="./images/mvp_logo.png" width="200" height="200" />
-  <img alt="CNCF Ambassador" src="./images/cncf-ambassador-spring-2023.png" width="200" height="200" />
-  <img alt="KubeCon+CloudNativeCon EU 2023 Speaker" src="./images/speaker-kubecon-2023.png" width="200" height="200" />
-  <img alt="KubeCon+CloudNativeCon NA 2023 Program Committee Member" src="./images/program-committee-kubecon-na.png" width="200" height="200" />
+  <img alt="Microsoft MVP" src="./images/mvp_logo.png" width="150" height="150" />
+  <img alt="CNCF Ambassador" src="./images/cncf-ambassador-spring-2023.png" width="150" height="150" />
+  <img alt="KubeCon+CloudNativeCon EU 2023 Speaker" src="./images/speaker-kubecon-2023.png" width="150" height="150" />
+  <img alt="KubeCon+CloudNativeCon NA 2023 Program Committee Member" src="./images/program-committee-kubecon-na.png" width="150" height="150" />
   <br>
-  <img alt="Azure Content Hero" src="./images/azure-content-hero.png" width="200" height="200" />
-  <img alt="Azure Community Hero" src="./images/azure-community-hero.png" width="200" height="200" />  
+  <img alt="Azure Content Hero" src="./images/azure-content-hero.png" width="150" height="150" />
+  <img alt="Azure Community Hero" src="./images/azure-community-hero.png" width="150" height="150" />  
 </p>
 
 ## 📜 Recent Blog Posts
