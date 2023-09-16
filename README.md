@@ -16,7 +16,7 @@
 
 ## 🧙‍♀️ About Me
 
-:tiger: A techie from Norway who loves preaching about all things cloud native, Kubernetes, green tech and cats. I am also an active supporter of sustainability in tech and outside of it, and animal welfare.
+:tiger: A techie from Norway who loves preaching about all things cloud native, Kubernetes, green tech and cats. An active supporter of sustainability in tech and outside of it, and animal welfare.
 
 ⛅️ Microsoft Azure MVP and CNCF Ambassador
 
@@ -57,7 +57,7 @@ My main area of interest is secure and sustainable cloud native application deve
 
 * Board member at Norwegian .NET User Group Oslo: [NNUG Oslo](https://www.meetup.com/nnugoslo) and [Cloud Native Norway](https://www.linkedin.com/company/cloudnativenorway)
 * Co-organizer at [Cloud Native and Kubernetes Oslo](https://www.meetup.com/cloud-native-and-kubernetes-oslo) and [DEVREAL Oslo](https://www.meetup.com/devreal)
-* Contributor and member of [CNCF TAG Environmental Sustainability](https://tag-env-sustainability.cncf.io)
+* Maintainer and contributor of [CNCF TAG Environmental Sustainability](https://tag-env-sustainability.cncf.io)
 * Community Advocate at [StreamingClouds](http://community.streamingclouds.io)
 * OWASP volunteer:  [OWASP](https://owasp.org)
 * Mentor at GirlCode: [GirlCode](https://www.girl-code.co.uk/findamentor/kristina-devochko) and WomenTech: [womentech](https://www.womentech.net/women-tech-mentors?combine=Devochko&webform_submission_value_1%5B%5D=Norway)
@@ -78,7 +78,8 @@ I'm currently contributing to following projects:
 <p float="left">
   <img alt="Microsoft MVP" src="./images/mvp_logo.png" width="200" height="200" />
   <img alt="CNCF Ambassador" src="./images/cncf-ambassador-spring-2023.png" width="200" height="200" />
-  <img alt="KubeCon+CloudNativeCon EU 2023 Speaker" src="./images/speaker-kubecon-2023.png" width="200" height="200" /> 
+  <img alt="KubeCon+CloudNativeCon EU 2023 Speaker" src="./images/speaker-kubecon-2023.png" width="200" height="200" />
+  <img alt="KubeCon+CloudNativeCon NA 2023 Program Committee Member" src="./images/program-committee-kubecon-na.png" width="200" height="200" />
   <br>
   <img alt="Azure Content Hero" src="./images/azure-content-hero.png" width="200" height="200" />
   <img alt="Azure Community Hero" src="./images/azure-community-hero.png" width="200" height="200" />  
