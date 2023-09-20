@@ -123,11 +123,11 @@ I'm currently contributing to following projects:
 - [📺 9th October, 2023: GSF Oslo October meetup - Getting started with green software and cloud native sustainability](https://www.meetup.com/gsf-oslo/events/295698438)
 - [📺 20th September, 2023: Microsoft Build Norway - Exploring DevSecOps controls for Kubernetes throughout the value chain](https://msevents.microsoft.com/event?id=3464278356)
 - [📺 16th September, 2023: Microsoft Azure Pakistan Community - AKS Survival Pack: what to consider before going all-in with AKS](https://www.meetup.com/Microsoft-Azure-Pakistan-Community/events/294272415)
+- [📝 7th September, 2023: Microsoft Learn Community Content - “Manage cost and optimize resources in AKS with Kubecost”](https://learn.microsoft.com/en-us/community/content/how-to-utilize-kubecost-for-cost-management-of-aks)
 - [📝 25th August, 2023: kode24 article - “Lanserer klimanettverk for utviklere”](https://www.kode24.no/artikkel/lanserer-klimanettverk-for-utviklere-mange-er-negative/80111720)
 - [📺 26th July, 2023: Cloud Lunch &amp; Learn - Managed Kubernetes Service: Day Zero Survival Pack](https://www.meetup.com/azuredublin/events/294393389)
 - [📺 12th July, 2023: Cloud Lunch &amp; Learn - Deploying microservices to AKS with ADO Environments and multi-staged Pipelines](https://www.meetup.com/azuredublin/events/294393334)
 - [📺 27th June, 2023: InfoQ Live Panel Discussion - Beyond Default Settings: Evaluating the Security of Kubernetes and Cloud Native Environments](https://www.infoq.com/presentations/kubernetes-security-cloud-native)
-- [📺 21st June, 2023: Cloud Native and Kubernetes Oslo - Sustainable Kubernetes and how YOU can make an impact](https://www.meetup.com/cloud-native-and-kubernetes-oslo/events/294099940)
 <!-- EVENTS-LIST:END -->
 
 ## 🦆Tweet Tweet
