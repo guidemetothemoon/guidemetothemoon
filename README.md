@@ -81,16 +81,16 @@
 ## 📜 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Resilience testing of Azure services with Azure Chaos Studio](https://kristhecodingunicorn.com/post/azure_chaos_studio/)
-- [Kubernetes port forwarding: cleaning up orphaned ports](https://kristhecodingunicorn.com/post/k8s_port_forwarding_cleanup/)
-- [How to get all Azure Policy assignments of a specific category?](https://kristhecodingunicorn.com/post/azpolicy_category_assignments/)
-- [Resolving Application Insights performance counters collection issue for .NET applications](https://kristhecodingunicorn.com/post/appinsights_perfcounters/)
-- [Scanning Azure VMs, Azure Arc-enabled servers and ACR images for vulnerabilities with Microsoft Defender and Qualys](https://kristhecodingunicorn.com/post/azure_qualys/)
-- [Takeaways from attending KubeCon+CloudNativeCon Europe 2023, wearing many hats](https://kristhecodingunicorn.com/post/kubecon_cloudnativecon_eu_2023/)
-- [Creating custom Azure Policy for Kubernetes to disallow non-compliant image registries](https://kristhecodingunicorn.com/post/k8s_deprecated_registry_azpolicy/)
-- [Keeping AKS clusters continuously secure with Azure Policy](https://kristhecodingunicorn.com/post/aks_azure_policy/)
-- [[🎄.NET Advent Calendar🎄] Strengthening security posture of containerized .NET applications with Chiseled Ubuntu Containers](https://kristhecodingunicorn.com/post/dotnet_ubuntu_chiseled/)
-- [[🎄Azure Advent Calendar🎄] Exploring upgrade strategies in Azure Kubernetes Service](https://kristhecodingunicorn.com/post/k8s_upgrade_strategy/)
+- [Resilience testing of Azure services with Azure Chaos Studio](https://kristhecodingunicorn.com/post/azure-services-resilience-testing-with-azure-chaos-studio/)
+- [Kubernetes port forwarding: cleaning up orphaned ports](https://kristhecodingunicorn.com/post/kubernetes-port-forwarding-cleanup-of-orphaned-ports/)
+- [How to get all Azure Policy assignments of a specific category?](https://kristhecodingunicorn.com/post/get-azure-policy-assignment-of-category/)
+- [Resolving Application Insights performance counters collection issue for .NET applications](https://kristhecodingunicorn.com/post/application-insights-perfcounters-collection-issue-dotnet/)
+- [Scanning Azure VMs, Azure Arc-enabled servers and ACR images for vulnerabilities with Microsoft Defender and Qualys](https://kristhecodingunicorn.com/post/scan-azurevm-azurearc-acr-with-defender-and-qualys/)
+- [Takeaways from attending KubeCon+CloudNativeCon Europe 2023, wearing many hats](https://kristhecodingunicorn.com/post/kubecon-cloudnativecon-eu-2023-takeaways/)
+- [Creating custom Azure Policy for Kubernetes to disallow non-compliant image registries](https://kristhecodingunicorn.com/post/custom-azure-policy-for-k8s-image-registries-compliance/)
+- [Keeping AKS clusters continuously secure with Azure Policy](https://kristhecodingunicorn.com/post/aks-azure-policy/)
+- [[🎄.NET Advent Calendar🎄] Strengthening security posture of containerized .NET applications with Chiseled Ubuntu Containers](https://kristhecodingunicorn.com/post/dotnet-chiseled-ubuntu-containers/)
+- [[🎄Azure Advent Calendar🎄] Exploring upgrade strategies in Azure Kubernetes Service](https://kristhecodingunicorn.com/post/aks-upgrade-strategies/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🦄 Recent Events (Past and Upcoming)
