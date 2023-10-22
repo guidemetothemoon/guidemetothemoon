@@ -1,11 +1,11 @@
-name: Retrieve recent blog posts, tech tips and events
+name: Retrieve recent blog posts and events
 on: 
   workflow_dispatch:
   schedule:
     - cron: "0 0 * * 1"
 jobs:
   update--profile-readme:
-    name: Update GitHub Profile README with recent blog posts
+    name: Update GitHub Profile README with recent blog posts and events
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -13,12 +13,6 @@ jobs:
         with:
           max_post_count: 10
           feed_list: "https://kristhecodingunicorn.com/post/index.xml"
-          
-      - uses: gautamkrishnar/blog-post-workflow@v1
-        with:
-          max_post_count: 10
-          comment_tag_name: "TECH-TIPS-LIST"
-          feed_list: "https://kristhecodingunicorn.com/techtips/index.xml"
 
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
