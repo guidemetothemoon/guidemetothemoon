@@ -89,8 +89,8 @@
 - [Takeaways from attending KubeCon+CloudNativeCon Europe 2023, wearing many hats](https://kristhecodingunicorn.com/post/kubecon-cloudnativecon-eu-2023-takeaways/)
 - [Creating custom Azure Policy for Kubernetes to disallow non-compliant image registries](https://kristhecodingunicorn.com/post/custom-azure-policy-for-k8s-image-registries-compliance/)
 - [Keeping AKS clusters continuously secure with Azure Policy](https://kristhecodingunicorn.com/post/aks-azure-policy/)
-- [[🎄.NET Advent Calendar🎄] Strengthening security posture of containerized .NET applications with Chiseled Ubuntu Containers](https://kristhecodingunicorn.com/post/dotnet-chiseled-ubuntu-containers/)
-- [[🎄Azure Advent Calendar🎄] Exploring upgrade strategies in Azure Kubernetes Service](https://kristhecodingunicorn.com/post/aks-upgrade-strategies/)
+- [How to trigger subsequent GitHub workflow in a different repository](https://kristhecodingunicorn.com/post/trigger-github-workflow-in-different-repo/)
+- [AKS control plane tiers - what, when and how?](https://kristhecodingunicorn.com/post/aks-control-plane-tiers/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🦄 Recent Events (Past and Upcoming)
