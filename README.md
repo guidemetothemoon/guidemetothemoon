@@ -82,6 +82,7 @@
 ## 📜 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A bird&#39;s-eye view of upcoming KubeCon+CloudNativeCon North America 2023](https://kristhecodingunicorn.com/post/kubecon-cloudnativecon-na-2023-expectations/)
 - [Resilience testing of Azure services with Azure Chaos Studio](https://kristhecodingunicorn.com/post/azure-services-resilience-testing-with-azure-chaos-studio/)
 - [Kubernetes port forwarding: cleaning up orphaned ports](https://kristhecodingunicorn.com/post/kubernetes-port-forwarding-cleanup-of-orphaned-ports/)
 - [How to get all Azure Policy assignments of a specific category?](https://kristhecodingunicorn.com/post/get-azure-policy-assignment-of-category/)
@@ -91,7 +92,6 @@
 - [Creating custom Azure Policy for Kubernetes to disallow non-compliant image registries](https://kristhecodingunicorn.com/post/custom-azure-policy-for-k8s-image-registries-compliance/)
 - [Keeping AKS clusters continuously secure with Azure Policy](https://kristhecodingunicorn.com/post/aks-azure-policy/)
 - [How to trigger subsequent GitHub workflow in a different repository](https://kristhecodingunicorn.com/post/trigger-github-workflow-in-different-repo/)
-- [AKS control plane tiers - what, when and how?](https://kristhecodingunicorn.com/post/aks-control-plane-tiers/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🦄 Recent Events (Past and Upcoming)
