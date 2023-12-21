@@ -2,7 +2,7 @@
 
   <img alt="Kind cat GIF" src="./images/greeting-cat.gif" />
 
-  <h1>Hi, I'm Kris - The Coding Unicorn!:smiley_cat:</h1>
+  <h1>Hi, I'm Kris - The Coding Unicorn!😺</h1>
 
   <div id="social-icons">
     <a href="https://kristhecodingunicorn.com">
