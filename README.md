@@ -16,15 +16,13 @@
 
 ## 🧙‍♀️ About Me
 
-:tiger: Preaching about all things cloud native, Kubernetes, green tech and cats. Animal welfare advocate.
-
-🚀 Principal Cloud Engineer at [Amesto Fortytwo](https://www.amestofortytwo.com)
+:tiger: Platform Engineer, preaching about all things cloud native, Kubernetes, green tech and cats. Animal welfare advocate.
 
 ⛅️ Microsoft Azure MVP and CNCF Ambassador
 
 💚 Founder of [Green Software Foundation Oslo](https://www.meetup.com/gsf-oslo) meetup group
 
-🌱 [CNCF TAG Environmental Sustainability](https://tag-env-sustainability.cncf.io) maintainer
+🌱 [CNCF TAG Environmental Sustainability](https://tag-env-sustainability.cncf.io) tech lead
 
 🎙️ Co-Host at [Kubernetes Unpacked](https://packetpushers.net/series/kubernetes-unpacked) podcast
 
