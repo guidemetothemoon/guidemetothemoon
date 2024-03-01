@@ -26,7 +26,6 @@
 
 🎙️ Co-Host at [Kubernetes Unpacked](https://packetpushers.net/series/kubernetes-unpacked) podcast
 
-🚢 [Kubernetes and Cloud Native Community Days (KCD) Oslo 2024](https://community.cncf.io/events/details/cncf-kcd-norway-presents-kcd-oslo-2024) organizer
 
 [![Spotify](https://guidemetothemoon-spotify.vercel.app/api/spotify?background_color=0e030d&border_color=ffffff)](https://open.spotify.com/user/116298200)
 
@@ -52,8 +51,8 @@
 
 * Board member at Norwegian .NET User Group Oslo: [NNUG Oslo](https://www.meetup.com/nnugoslo) and [Cloud Native Norway](https://www.linkedin.com/company/cloudnativenorway)
 * Co-organizer at [Cloud Native and Kubernetes Oslo](https://www.meetup.com/cloud-native-and-kubernetes-oslo) and [StreamingClouds(retired)](https://www.youtube.com/@StreamingClouds)
-* OWASP volunteer:  [OWASP](https://owasp.org)
-* Mentor at GirlCode: [GirlCode](https://www.girl-code.co.uk/findamentor/kristina-devochko) and WomenTech: [womentech](https://www.womentech.net/women-tech-mentors?combine=Devochko&webform_submission_value_1%5B%5D=Norway)
+* [Kubernetes and Cloud Native Community Days (KCD) Oslo](https://community.cncf.io/events/details/cncf-kcd-norway-presents-kcd-oslo-2024) organizer
+* Mentor and Speaker
 * Volunteer at local animal shelters
 
 ## 💫 Open Source Contributions
@@ -73,6 +72,8 @@
   <img alt="KubeCon+CloudNativeCon NA 2023 Program Committee Member" src="./images/program-committee-kubecon-na.png" width="150" height="150" />
   <img alt="Cloud Native Sustainability Week Organizer" src="./images/organizer-cloud-native-sustainability-week.png" width="150" height="150" />
   <img alt="Microsoft Contributor Kudos" src="./images/microsoft-contributor-kudos1.png" width="150" height="150" />
+  <img alt="KubeCon+CloudNativeCon EU 2024 Program Committee Member" src="./images/program-committee-member-kubecon-eu24.png" width="150" height="150" />
+  <img alt="OSS NA 2024 Program Committee Member" src="./images/program-committee-member-oss-na-24.png" width="150" height="150" />
   <br>
   <img alt="Azure Content Hero" src="./images/azure-content-hero.png" width="150" height="150" />
   <img alt="Azure Community Hero" src="./images/azure-community-hero.png" width="150" height="150" />  
