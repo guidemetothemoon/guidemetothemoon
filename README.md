@@ -97,6 +97,7 @@
 ## 🦄 Recent Events (Past and Upcoming)
 
 <!-- EVENTS-LIST:START -->
+- [📺 27. March, 2024: Cloud Native Austria and Saar - KubeCon Recap: Debunking Myths About Environmental Sustainability in the Cloud, Building a Greener CNCF Landscape](https://www.meetup.com/cloud-native-austria/events/299793428)
 - [📺 21. March, 2024: KubeCon + CloudNativeCon Europe 2024: Cloud Native Sustainability Efforts in the Community - TAG Environmental Sustainability](https://sched.co/1Yhgd)
 - [📺 20. March, 2024: KubeCon + CloudNativeCon Europe 2024: CloudNativeHacks - Panel Discussion Facilitated by The Sustainability Working Group](https://sched.co/1Yvvp)
 - [📺 19. March, 2024: KubeCon + CloudNativeCon Europe 2024: Lightning Talk: Debunking Myths About Environmental Sustainability in the Cloud, Building a Greener CNCF Landscape](https://sched.co/1YeLF)
@@ -106,7 +107,6 @@
 - [📺 30th November, 2023: Come Cloud With Us Panel - Microsoft Ignite 2023 After Party](https://www.meetup.com/comecloudwithus/events/296203008)
 - [📺 29th November, 2023: Women on Stage Global Virtual Conference 2023 - Exploring chaos engineering…the FUN way!](https://www.womenonstage.net/global-virtual-conference-2023)
 - [📺 25th October, 2023: MVP-Dagen Oslo - Exploring GitOps on Azure](https://mvp-dagen-2023.sessionize.com/session/513076)
-- [📺 9th October, 2023: GSF Oslo October meetup - Getting started with green software and cloud native sustainability](https://www.meetup.com/gsf-oslo/events/295698438)
 <!-- EVENTS-LIST:END -->
 
 ---
