@@ -98,16 +98,16 @@
 ## 🦄 Recent Events (Past and Upcoming)
 
 <!-- EVENTS-LIST:START -->
-- [📺 27. March, 2024: Cloud Native Austria and Saar - KubeCon Recap: Debunking Myths About Environmental Sustainability in the Cloud, Building a Greener CNCF Landscape](https://www.meetup.com/cloud-native-austria/events/299793428)
-- [📺 21. March, 2024: KubeCon + CloudNativeCon Europe 2024: Cloud Native Sustainability Efforts in the Community - TAG Environmental Sustainability](https://sched.co/1Yhgd)
-- [📺 20. March, 2024: KubeCon + CloudNativeCon Europe 2024: CloudNativeHacks - Panel Discussion Facilitated by The Sustainability Working Group](https://sched.co/1Yvvp)
-- [📺 19. March, 2024: KubeCon + CloudNativeCon Europe 2024: Lightning Talk: Debunking Myths About Environmental Sustainability in the Cloud, Building a Greener CNCF Landscape](https://sched.co/1YeLF)
+- [📺 3rd. April, 2024: Microsoft Learn Live - From Day Zero To Production with Azure Container Apps](https://developer.microsoft.com/en-us/reactor/events/22144)
+- [📺 27th March, 2024: Cloud Native Austria and Saar - KubeCon Recap: Debunking Myths About Environmental Sustainability in the Cloud, Building a Greener CNCF Landscape](https://www.meetup.com/cloud-native-austria/events/299793428)
+- [📺 21st March, 2024: KubeCon + CloudNativeCon Europe 2024: Cloud Native Sustainability Efforts in the Community - TAG Environmental Sustainability](https://sched.co/1Yhgd)
+- [📺 20th March, 2024: KubeCon + CloudNativeCon Europe 2024: CloudNativeHacks - Panel Discussion Facilitated by The Sustainability Working Group](https://sched.co/1Yvvp)
+- [📺 19th March, 2024: KubeCon + CloudNativeCon Europe 2024: Lightning Talk: Debunking Myths About Environmental Sustainability in the Cloud, Building a Greener CNCF Landscape](https://sched.co/1YeLF)
 - [🎙️ 25th January, 2024: Green Software Foundation Environment Variables podcast - The Week in Green Software: CNCF TAG Environmental Sustainability](https://podcast.greensoftware.foundation/e/q802j038-the-week-in-green-software-cncf-tag-environmental-sustainability)
 - [📝 2nd January, 2024: Microsoft Azure Community Blog - Contributor Stories: Kristina Devochko](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/contributor-stories-kristina-devochko/ba-p/4017860?wt.mc_id=contributorstories_techcommunity_blog_cxa)
 - [📺 21st December, 2023: Women in Cloud Native - Journey in Tech &amp; all about Sustainability in Tech w/ Kristina](https://www.youtube.com/watch?v=EoL2X4QB33M)
 - [📺 30th November, 2023: Come Cloud With Us Panel - Microsoft Ignite 2023 After Party](https://www.meetup.com/comecloudwithus/events/296203008)
 - [📺 29th November, 2023: Women on Stage Global Virtual Conference 2023 - Exploring chaos engineering…the FUN way!](https://www.womenonstage.net/global-virtual-conference-2023)
-- [📺 25th October, 2023: MVP-Dagen Oslo - Exploring GitOps on Azure](https://mvp-dagen-2023.sessionize.com/session/513076)
 <!-- EVENTS-LIST:END -->
 
 ---
