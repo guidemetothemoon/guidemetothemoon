@@ -75,6 +75,7 @@
   <img alt="KubeCon+CloudNativeCon EU 2024 Program Committee Member" src="./images/program-committee-member-kubecon-eu24.png" width="150" height="150" />
   <img alt="OSS NA 2024 Program Committee Member" src="./images/program-committee-member-oss-na-24.png" width="150" height="150" />
   <img alt="KCD Oslo 2024 Organizer" src="./images/organizer-kcd-2024.png" width="150" height="150" />
+  <img alt="KubeCon+CloudNativeCon EU 2024 Speaker" src="./images/speaker-kubecon-2024.png" width="150" height="150" />
   <br>
   <img alt="Azure Content Hero" src="./images/azure-content-hero.png" width="150" height="150" />
   <img alt="Azure Community Hero" src="./images/azure-community-hero.png" width="150" height="150" />  
