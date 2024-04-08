@@ -99,7 +99,7 @@
 ## 🦄 Recent Events (Past and Upcoming)
 
 <!-- EVENTS-LIST:START -->
-- [📺 3rd. April, 2024: Microsoft Learn Live - From Day Zero To Production with Azure Container Apps](https://developer.microsoft.com/en-us/reactor/events/22144)
+- [📺 3rd. April, 2024: Microsoft Learn Live - From Day Zero To Production with Azure Container Apps](https://www.youtube.com/live/yAtMgufv7Aw?si=vtQ6ziOYhasNKuyr)
 - [📺 27th March, 2024: Cloud Native Austria and Saar - KubeCon Recap: Debunking Myths About Environmental Sustainability in the Cloud, Building a Greener CNCF Landscape](https://www.meetup.com/cloud-native-austria/events/299793428)
 - [📺 21st March, 2024: KubeCon + CloudNativeCon Europe 2024: Cloud Native Sustainability Efforts in the Community - TAG Environmental Sustainability](https://sched.co/1Yhgd)
 - [📺 20th March, 2024: KubeCon + CloudNativeCon Europe 2024: CloudNativeHacks - Panel Discussion Facilitated by The Sustainability Working Group](https://sched.co/1Yvvp)
