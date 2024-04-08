@@ -55,14 +55,6 @@
 * Mentor and Speaker
 * Volunteer at local animal shelters
 
-## 💫 Open Source Contributions
-
-* **Anatole Hugo Theme:** [anatole](https://github.com/lxndrblz/anatole)
-
-* **Sprint Name Generator:** [sprint-name-generator](https://github.com/flostadler/sprint-name-generator)
-
-* **TAG Environmental Sustainability:** [tag-env-sustainability](https://github.com/cncf/tag-env-sustainability)
-
 ## 🚀 Badges
 
 <p float="left">
