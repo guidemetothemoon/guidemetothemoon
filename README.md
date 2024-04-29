@@ -91,6 +91,7 @@
 ## 🦄 Recent Events (Past and Upcoming)
 
 <!-- EVENTS-LIST:START -->
+- [🎙️ 19th April, 2024: nCast: The Cloud Optimization Podcast from nOps #12: Optimizing for Sustainability](https://open.spotify.com/episode/03m6TxbFfGJFGJudJY9KKH?si=w1UceH7sRfelICu7yQ7aFA)
 - [📺 3rd. April, 2024: Microsoft Learn Live - From Day Zero To Production with Azure Container Apps](https://www.youtube.com/live/yAtMgufv7Aw?si=vtQ6ziOYhasNKuyr)
 - [📺 27th March, 2024: Cloud Native Austria and Saar - KubeCon Recap: Debunking Myths About Environmental Sustainability in the Cloud, Building a Greener CNCF Landscape](https://www.meetup.com/cloud-native-austria/events/299793428)
 - [📺 21st March, 2024: KubeCon + CloudNativeCon Europe 2024: Cloud Native Sustainability Efforts in the Community - TAG Environmental Sustainability](https://sched.co/1Yhgd)
@@ -100,7 +101,6 @@
 - [📝 2nd January, 2024: Microsoft Azure Community Blog - Contributor Stories: Kristina Devochko](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/contributor-stories-kristina-devochko/ba-p/4017860?wt.mc_id=contributorstories_techcommunity_blog_cxa)
 - [📺 21st December, 2023: Women in Cloud Native - Journey in Tech &amp; all about Sustainability in Tech w/ Kristina](https://www.youtube.com/watch?v=EoL2X4QB33M)
 - [📺 30th November, 2023: Come Cloud With Us Panel - Microsoft Ignite 2023 After Party](https://www.meetup.com/comecloudwithus/events/296203008)
-- [📺 29th November, 2023: Women on Stage Global Virtual Conference 2023 - Exploring chaos engineering…the FUN way!](https://www.womenonstage.net/global-virtual-conference-2023)
 <!-- EVENTS-LIST:END -->
 
 ---
