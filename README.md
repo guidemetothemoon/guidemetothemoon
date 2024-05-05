@@ -8,8 +8,8 @@
     <a href="https://kristhecodingunicorn.com">
       <img src="https://raster.shields.io/badge/Tech Blog-blueviolet?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABmJLR0QA/wD/AP+gvaeTAAACeklEQVQ4jaWTTUgbQRiG35nZrNlkJdYY/K3Gn/YQD4IHDUYEiwixFEFb8VzooT320LPQayn0Ujz1WqFG6qEVNFQRRVtP9fdS26KJVJrE1WQ3cbM700MwxdSefE/D8D3vN+/MN8A1RQBgORz2lXH+AkIMC87dTJIObNt+2b2w8BoTE+TL2toTQshTblk3KaUZEPI+R+mzvrm532Q5HPY5Of9aUVdX5WttdchOJ7Knp4jt7upmJvOBAMShqkMNgYBb8XiQZwznHo/9c2rqF2y7gz1ua3vlqa3taezocEiyDEIpZEVBZX29rB0dNVFJunU7FFLL3G5QVYVrfBxqTw9l5+dObW+vUuJCjPpaWhyl2ShjaOrsVC/WRFEgj4yAeL0QqRSUdFqmwH0Jtl0uK0oRlMfGAMaQn53FxS5xuSCPjhbgZBJmJALJtsE591DCWDyXTv9tLUmg1dUFwOW6EhaGgdzZGShjMfaoudkys9m+yoYGGQD4/j6Y3w/i9YL5/WCBwD8wAMQ2NzOmrj+nhmVN6qlU6iQeFwAgDAPm9DREIgHi9RYzmzMzRTgVi4nMyUnSsKxJ2r+0ZOXz+cHDrS3d0DQAgMhmC90SiQIciUDoOgAgq2k43N7WiWne7V9asshF9PX+/iEiy+/agkGXq6KieHkXpwIAQ9PwbX3dEKb5ILi4+LE4iUWTgYFhEPK2tatLUauqLj1rOpHA942NHDgfD0ajs5dGucSkl1A6W9/eXuFtbKQAkDw44PGdnTPB+b1gNLryz18o1efBwWYQ8ulGTU21EALa8fExhLjTPT//o7T2SgMAWAmFyh3l5W8AIJ9OP+xdXU3/r/Za+gNs6RqKUGJHgAAAAABJRU5ErkJggg==" alt="Blog"/>
     </a>
-    <a href="https://linkfree.io/guidemetothemoon">
-      <img src="https://img.shields.io/badge/Let's%20Connect!-080ebf?style=for-the-badge&logo=aerlingus" alt="Linkfree"/>
+    <a href="https://linktr.ee/guidemetothemoon">
+      <img src="https://img.shields.io/badge/Let's%20Connect!-080ebf?style=for-the-badge&logo=aerlingus" alt="Linktree"/>
     </a>
   </div>
 </div>
@@ -18,7 +18,9 @@
 
 :tiger: Platform Engineer, preaching about all things cloud native, Kubernetes, green tech and cats. Animal welfare advocate.
 
-⛅️ Microsoft Azure MVP and CNCF Ambassador
+⛅️ [Microsoft Azure MVP](https://mvp.microsoft.com/en-US/mvp/profile/4b89b8a2-6d27-ed11-9db2-000d3a1028ba) and [CNCF Ambassador](https://www.cncf.io/people/ambassadors/?_sft_lf-country=no&p=kristina-devochko)
+
+🌍 [Green Software Champion](https://champions.greensoftware.foundation/champions/kristina-devochko)
 
 💚 Founder of [Green Software Foundation Oslo](https://www.meetup.com/gsf-oslo) meetup group
 
@@ -55,27 +57,20 @@
 * Mentor and Speaker
 * Volunteer at local animal shelters
 
-## 💫 Open Source Contributions
-
-* **Anatole Hugo Theme:** [anatole](https://github.com/lxndrblz/anatole)
-
-* **Sprint Name Generator:** [sprint-name-generator](https://github.com/flostadler/sprint-name-generator)
-
-* **TAG Environmental Sustainability:** [tag-env-sustainability](https://github.com/cncf/tag-env-sustainability)
-
 ## 🚀 Badges
 
 <p float="left">
-  <img alt="Microsoft MVP" src="./images/mvp_logo.png" width="150" height="150" />
-  <img alt="CNCF Ambassador" src="./images/cncf-ambassador-spring-2023.png" width="150" height="150" />
+  <img alt="Microsoft Azure MVP" src="./images/mvp_logo.png" width="150" height="150" />
+  <img alt="Microsoft Contributor Kudos" src="./images/microsoft-contributor-kudos1.png" width="150" height="150" />
+  <img alt="CNCF Ambassador 2024-2026" src="./images/cncf-ambassador-h1-2024.png" width="150" height="150" />
+  <img alt="KubeCon+CloudNativeCon EU 2024 Program Committee Member" src="./images/program-committee-member-kubecon-eu24.png" width="150" height="150" />
+  <img alt="OSS NA 2024 Program Committee Member" src="./images/program-committee-member-oss-na-24.png" width="150" height="150" />
+  <img alt="KubeCon+CloudNativeCon EU 2024 Speaker" src="./images/speaker-kubecon-2024.png" width="150" height="150" />
+  <img alt="KCD Oslo 2024 Organizer" src="./images/organizer-kcd-2024.png" width="150" height="150" />
+  <img alt="CNCF Ambassador 2023-2024" src="./images/cncf-ambassador-spring-2023.png" width="150" height="150" />
   <img alt="KubeCon+CloudNativeCon EU 2023 Speaker" src="./images/speaker-kubecon-2023.png" width="150" height="150" />
   <img alt="KubeCon+CloudNativeCon NA 2023 Program Committee Member" src="./images/program-committee-kubecon-na.png" width="150" height="150" />
   <img alt="Cloud Native Sustainability Week Organizer" src="./images/organizer-cloud-native-sustainability-week.png" width="150" height="150" />
-  <img alt="Microsoft Contributor Kudos" src="./images/microsoft-contributor-kudos1.png" width="150" height="150" />
-  <img alt="KubeCon+CloudNativeCon EU 2024 Program Committee Member" src="./images/program-committee-member-kubecon-eu24.png" width="150" height="150" />
-  <img alt="OSS NA 2024 Program Committee Member" src="./images/program-committee-member-oss-na-24.png" width="150" height="150" />
-  <img alt="KCD Oslo 2024 Organizer" src="./images/organizer-kcd-2024.png" width="150" height="150" />
-  <img alt="KubeCon+CloudNativeCon EU 2024 Speaker" src="./images/speaker-kubecon-2024.png" width="150" height="150" />
   <br>
   <img alt="Azure Content Hero" src="./images/azure-content-hero.png" width="150" height="150" />
   <img alt="Azure Community Hero" src="./images/azure-community-hero.png" width="150" height="150" />  
