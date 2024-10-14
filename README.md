@@ -2,7 +2,7 @@
 
   <img alt="Kind cat GIF" src="./images/greeting-cat.gif" />
 
-  <h1>Hi, I'm Kris - The Coding Unicorn!😺</h1>
+  <h1>Hi, I'm Kris!😺</h1>
 
   <div id="social-icons">
     <a href="https://kristhecodingunicorn.com">
@@ -16,7 +16,7 @@
 
 ## 🧙‍♀️ About Me
 
-:tiger: Platform Engineer, preaching about all things cloud native, Kubernetes, green tech and cats. Animal welfare advocate.
+:tiger: Platform Engineer. Interested in all things tech, cats and motorcycles. Advocate of being nice and kind to each other, animals, nature and planet as a whole.
 
 ⛅️ [Microsoft Azure MVP](https://mvp.microsoft.com/en-US/mvp/profile/4b89b8a2-6d27-ed11-9db2-000d3a1028ba) and [CNCF Ambassador](https://www.cncf.io/people/ambassadors/?_sft_lf-country=no&p=kristina-devochko)
 
@@ -26,7 +26,9 @@
 
 🌱 [CNCF TAG Environmental Sustainability](https://tag-env-sustainability.cncf.io) tech lead
 
-🎙️ Co-Host at [Kubernetes Unpacked](https://packetpushers.net/series/kubernetes-unpacked) podcast
+💫 Co-organizer at [Cloud Native and Kubernetes Oslo](https://www.meetup.com/cloud-native-and-kubernetes-oslo) and Norwegian .NET User Group Oslo: [NNUG Oslo](https://www.meetup.com/nnugoslo)
+
+🎙️ Co-Host at [Engineering Revised](https://sites.libsyn.com/529037) podcast
 
 
 [![Spotify](https://guidemetothemoon-spotify.vercel.app/api/spotify?background_color=0e030d&border_color=ffffff)](https://open.spotify.com/user/116298200)
@@ -48,14 +50,6 @@
   <img src="./images/tech-icons/octopus-icon.png" title="Octopus Deploy" alt="Octopus Deploy" width="80" height="80"/>
   <img src="./images/tech-icons/hugo-icon.png" title="Hugo Server" alt="Hugo Server" width="80" height="80"/>
 </div>
-
-## 🙌🏼 Community Volunteering
-
-* Board member at Norwegian .NET User Group Oslo: [NNUG Oslo](https://www.meetup.com/nnugoslo) and [Cloud Native Norway](https://www.linkedin.com/company/cloudnativenorway)
-* Co-organizer at [Cloud Native and Kubernetes Oslo](https://www.meetup.com/cloud-native-and-kubernetes-oslo) and [StreamingClouds(retired)](https://www.youtube.com/@StreamingClouds)
-* [Kubernetes and Cloud Native Community Days (KCD) Oslo](https://community.cncf.io/events/details/cncf-kcd-norway-presents-kcd-oslo-2024) organizer
-* Mentor and Speaker
-* Volunteer at local animal shelters
 
 ## 🚀 Badges
 
