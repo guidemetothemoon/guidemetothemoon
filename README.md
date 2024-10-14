@@ -67,12 +67,14 @@
 ## 🚀 Badges
 
 <p float="left">
-  <img alt="Microsoft MVP" src="./images/mvp_logo.png" width="150" height="150" />
+  <img alt="Microsoft MVP 2024" src="./images/mvp-logo-2024.png" width="150" height="150" />
+  <img alt="KubeCon+CloudNativeCon NA 2024 Track Chair" src="./images/track-chair-kubecon-2024.png" width="150" height="150" />
+  <img alt="Microsoft MVP 2023" src="./images/mvp-logo-2023.png" width="150" height="150" />
   <img alt="CNCF Ambassador" src="./images/cncf-ambassador-spring-2023.png" width="150" height="150" />
   <img alt="KubeCon+CloudNativeCon EU 2023 Speaker" src="./images/speaker-kubecon-2023.png" width="150" height="150" />
   <img alt="KubeCon+CloudNativeCon NA 2023 Program Committee Member" src="./images/program-committee-kubecon-na.png" width="150" height="150" />
   <img alt="Cloud Native Sustainability Week Organizer" src="./images/organizer-cloud-native-sustainability-week.png" width="150" height="150" />
-  <img alt="Microsoft Contributor Kudos" src="./images/microsoft-contributor-kudos1.png" width="150" height="150" />
+  <img alt="Microsoft Contributor Kudos" src="./images/microsoft-contributor-kudos.png" width="150" height="150" />
   <br>
   <img alt="Azure Content Hero" src="./images/azure-content-hero.png" width="150" height="150" />
   <img alt="Azure Community Hero" src="./images/azure-community-hero.png" width="150" height="150" />  
