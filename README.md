@@ -8,8 +8,8 @@
     <a href="https://kristhecodingunicorn.com">
       <img src="https://raster.shields.io/badge/Tech Blog-blueviolet?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABmJLR0QA/wD/AP+gvaeTAAACeklEQVQ4jaWTTUgbQRiG35nZrNlkJdYY/K3Gn/YQD4IHDUYEiwixFEFb8VzooT320LPQayn0Ujz1WqFG6qEVNFQRRVtP9fdS26KJVJrE1WQ3cbM700MwxdSefE/D8D3vN+/MN8A1RQBgORz2lXH+AkIMC87dTJIObNt+2b2w8BoTE+TL2toTQshTblk3KaUZEPI+R+mzvrm532Q5HPY5Of9aUVdX5WttdchOJ7Knp4jt7upmJvOBAMShqkMNgYBb8XiQZwznHo/9c2rqF2y7gz1ua3vlqa3taezocEiyDEIpZEVBZX29rB0dNVFJunU7FFLL3G5QVYVrfBxqTw9l5+dObW+vUuJCjPpaWhyl2ShjaOrsVC/WRFEgj4yAeL0QqRSUdFqmwH0Jtl0uK0oRlMfGAMaQn53FxS5xuSCPjhbgZBJmJALJtsE591DCWDyXTv9tLUmg1dUFwOW6EhaGgdzZGShjMfaoudkys9m+yoYGGQD4/j6Y3w/i9YL5/WCBwD8wAMQ2NzOmrj+nhmVN6qlU6iQeFwAgDAPm9DREIgHi9RYzmzMzRTgVi4nMyUnSsKxJ2r+0ZOXz+cHDrS3d0DQAgMhmC90SiQIciUDoOgAgq2k43N7WiWne7V9asshF9PX+/iEiy+/agkGXq6KieHkXpwIAQ9PwbX3dEKb5ILi4+LE4iUWTgYFhEPK2tatLUauqLj1rOpHA942NHDgfD0ajs5dGucSkl1A6W9/eXuFtbKQAkDw44PGdnTPB+b1gNLryz18o1efBwWYQ8ulGTU21EALa8fExhLjTPT//o7T2SgMAWAmFyh3l5W8AIJ9OP+xdXU3/r/Za+gNs6RqKUGJHgAAAAABJRU5ErkJggg==" alt="Blog"/>
     </a>
-    <a href="https://linkfree.io/guidemetothemoon">
-      <img src="https://img.shields.io/badge/Let's%20Connect!-080ebf?style=for-the-badge&logo=aerlingus" alt="Linkfree"/>
+    <a href="https://linktr.ee/guidemetothemoon">
+      <img src="https://img.shields.io/badge/Let's%20Connect!-080ebf?style=for-the-badge&logo=aerlingus" alt="Linktree"/>
     </a>
   </div>
 </div>
@@ -18,7 +18,9 @@
 
 :tiger: Platform Engineer, preaching about all things cloud native, Kubernetes, green tech and cats. Animal welfare advocate.
 
-⛅️ Microsoft Azure MVP and CNCF Ambassador
+⛅️ [Microsoft Azure MVP](https://mvp.microsoft.com/en-US/mvp/profile/4b89b8a2-6d27-ed11-9db2-000d3a1028ba) and [CNCF Ambassador](https://www.cncf.io/people/ambassadors/?_sft_lf-country=no&p=kristina-devochko)
+
+🌍 [Green Software Champion](https://champions.greensoftware.foundation/champions/kristina-devochko)
 
 💚 Founder of [Green Software Foundation Oslo](https://www.meetup.com/gsf-oslo) meetup group
 
@@ -26,7 +28,6 @@
 
 🎙️ Co-Host at [Kubernetes Unpacked](https://packetpushers.net/series/kubernetes-unpacked) podcast
 
-🚢 [Kubernetes and Cloud Native Community Days (KCD) Oslo 2024](https://community.cncf.io/events/details/cncf-kcd-norway-presents-kcd-oslo-2024) organizer
 
 [![Spotify](https://guidemetothemoon-spotify.vercel.app/api/spotify?background_color=0e030d&border_color=ffffff)](https://open.spotify.com/user/116298200)
 
@@ -52,29 +53,26 @@
 
 * Board member at Norwegian .NET User Group Oslo: [NNUG Oslo](https://www.meetup.com/nnugoslo) and [Cloud Native Norway](https://www.linkedin.com/company/cloudnativenorway)
 * Co-organizer at [Cloud Native and Kubernetes Oslo](https://www.meetup.com/cloud-native-and-kubernetes-oslo) and [StreamingClouds(retired)](https://www.youtube.com/@StreamingClouds)
-* OWASP volunteer:  [OWASP](https://owasp.org)
-* Mentor at GirlCode: [GirlCode](https://www.girl-code.co.uk/findamentor/kristina-devochko) and WomenTech: [womentech](https://www.womentech.net/women-tech-mentors?combine=Devochko&webform_submission_value_1%5B%5D=Norway)
+* [Kubernetes and Cloud Native Community Days (KCD) Oslo](https://community.cncf.io/events/details/cncf-kcd-norway-presents-kcd-oslo-2024) organizer
+* Mentor and Speaker
 * Volunteer at local animal shelters
-
-## 💫 Open Source Contributions
-
-* **Anatole Hugo Theme:** [anatole](https://github.com/lxndrblz/anatole)
-
-* **Sprint Name Generator:** [sprint-name-generator](https://github.com/flostadler/sprint-name-generator)
-
-* **TAG Environmental Sustainability:** [tag-env-sustainability](https://github.com/cncf/tag-env-sustainability)
 
 ## 🚀 Badges
 
 <p float="left">
-  <img alt="Microsoft MVP 2024" src="./images/mvp-logo-2024.png" width="150" height="150" />
   <img alt="KubeCon+CloudNativeCon NA 2024 Track Chair" src="./images/track-chair-kubecon-2024.png" width="150" height="150" />
-  <img alt="Microsoft MVP 2023" src="./images/mvp-logo-2023.png" width="150" height="150" />
-  <img alt="CNCF Ambassador" src="./images/cncf-ambassador-spring-2023.png" width="150" height="150" />
+  <img alt="Microsoft Azure MVP 2024" src="./images/mvp-logo-2024.png" width="150" height="150" />
+  <img alt="Microsoft Azure MVP 2023" src="./images/mvp-logo-2023.png" width="150" height="150" />
+  <img alt="Microsoft Contributor Kudos" src="./images/microsoft-contributor-kudos.png" width="150" height="150" />
+  <img alt="CNCF Ambassador 2024-2026" src="./images/cncf-ambassador-h1-2024.png" width="150" height="150" />
+  <img alt="KubeCon+CloudNativeCon EU 2024 Program Committee Member" src="./images/program-committee-member-kubecon-eu24.png" width="150" height="150" />
+  <img alt="OSS NA 2024 Program Committee Member" src="./images/program-committee-member-oss-na-24.png" width="150" height="150" />
+  <img alt="KubeCon+CloudNativeCon EU 2024 Speaker" src="./images/speaker-kubecon-2024.png" width="150" height="150" />
+  <img alt="KCD Oslo 2024 Organizer" src="./images/organizer-kcd-2024.png" width="150" height="150" />
+  <img alt="CNCF Ambassador 2023-2024" src="./images/cncf-ambassador-spring-2023.png" width="150" height="150" />
   <img alt="KubeCon+CloudNativeCon EU 2023 Speaker" src="./images/speaker-kubecon-2023.png" width="150" height="150" />
   <img alt="KubeCon+CloudNativeCon NA 2023 Program Committee Member" src="./images/program-committee-kubecon-na.png" width="150" height="150" />
   <img alt="Cloud Native Sustainability Week Organizer" src="./images/organizer-cloud-native-sustainability-week.png" width="150" height="150" />
-  <img alt="Microsoft Contributor Kudos" src="./images/microsoft-contributor-kudos.png" width="150" height="150" />
   <br>
   <img alt="Azure Content Hero" src="./images/azure-content-hero.png" width="150" height="150" />
   <img alt="Azure Community Hero" src="./images/azure-community-hero.png" width="150" height="150" />  
@@ -83,6 +81,7 @@
 ## 📜 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to automate migration of classic Application Insights instances to workspace-based](https://kristhecodingunicorn.com/post/migrate-application-insights-to-workspace-based/)
 - [Christmas the Whole Year Round...and Year++ with Kubernetes LTS](https://kristhecodingunicorn.com/post/kubernetes-lts/)
 - [Passing Kubernetes and Cloud Native Associate &lpar;KCNA&rpar; certification exam](https://kristhecodingunicorn.com/post/passing-kcna-certification-exam/)
 - [A bird&#39;s-eye view of upcoming KubeCon+CloudNativeCon North America 2023](https://kristhecodingunicorn.com/post/kubecon-cloudnativecon-na-2023-expectations/)
@@ -92,22 +91,21 @@
 - [Resolving Application Insights performance counters collection issue for .NET applications](https://kristhecodingunicorn.com/post/application-insights-perfcounters-collection-issue-dotnet/)
 - [Scanning Azure VMs, Azure Arc-enabled servers and ACR images for vulnerabilities with Microsoft Defender and Qualys](https://kristhecodingunicorn.com/post/scan-azurevm-azurearc-acr-with-defender-and-qualys/)
 - [Takeaways from attending KubeCon+CloudNativeCon Europe 2023, wearing many hats](https://kristhecodingunicorn.com/post/kubecon-cloudnativecon-eu-2023-takeaways/)
-- [Creating custom Azure Policy for Kubernetes to disallow non-compliant image registries](https://kristhecodingunicorn.com/post/custom-azure-policy-for-k8s-image-registries-compliance/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🦄 Recent Events (Past and Upcoming)
 
 <!-- EVENTS-LIST:START -->
+- [🎙️ 19th April, 2024: nCast: The Cloud Optimization Podcast from nOps #12: Optimizing for Sustainability](https://open.spotify.com/episode/03m6TxbFfGJFGJudJY9KKH?si=w1UceH7sRfelICu7yQ7aFA)
+- [📺 3rd. April, 2024: Microsoft Learn Live - From Day Zero To Production with Azure Container Apps](https://www.youtube.com/live/yAtMgufv7Aw?si=vtQ6ziOYhasNKuyr)
+- [📺 27th March, 2024: Cloud Native Austria and Saar - KubeCon Recap: Debunking Myths About Environmental Sustainability in the Cloud, Building a Greener CNCF Landscape](https://youtu.be/PLjX3gpnmjo?si=yUScFmZcOVw_Egq5)
+- [📺 21st March, 2024: KubeCon + CloudNativeCon Europe 2024: Cloud Native Sustainability Efforts in the Community - TAG Environmental Sustainability](https://sched.co/1Yhgd)
+- [📺 20th March, 2024: KubeCon + CloudNativeCon Europe 2024: CloudNativeHacks - Panel Discussion Facilitated by The Sustainability Working Group](https://sched.co/1Yvvp)
+- [📺 19th March, 2024: KubeCon + CloudNativeCon Europe 2024: Lightning Talk: Debunking Myths About Environmental Sustainability in the Cloud, Building a Greener CNCF Landscape](https://sched.co/1YeLF)
+- [🎙️ 25th January, 2024: Green Software Foundation Environment Variables podcast - The Week in Green Software: CNCF TAG Environmental Sustainability](https://podcast.greensoftware.foundation/e/q802j038-the-week-in-green-software-cncf-tag-environmental-sustainability)
+- [📝 2nd January, 2024: Microsoft Azure Community Blog - Contributor Stories: Kristina Devochko](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/contributor-stories-kristina-devochko/ba-p/4017860?wt.mc_id=contributorstories_techcommunity_blog_cxa)
 - [📺 21st December, 2023: Women in Cloud Native - Journey in Tech &amp; all about Sustainability in Tech w/ Kristina](https://www.youtube.com/watch?v=EoL2X4QB33M)
 - [📺 30th November, 2023: Come Cloud With Us Panel - Microsoft Ignite 2023 After Party](https://www.meetup.com/comecloudwithus/events/296203008)
-- [📺 29th November, 2023: Women on Stage Global Virtual Conference 2023 - Exploring chaos engineering…the FUN way!](https://www.womenonstage.net/global-virtual-conference-2023)
-- [📺 25th October, 2023: MVP-Dagen Oslo - Exploring GitOps on Azure](https://mvp-dagen-2023.sessionize.com/session/513076)
-- [📺 9th October, 2023: GSF Oslo October meetup - Getting started with green software and cloud native sustainability](https://www.meetup.com/gsf-oslo/events/295698438)
-- [📺 20th September, 2023: Microsoft Build Norway - Exploring DevSecOps controls for Kubernetes throughout the value chain](https://msevents.microsoft.com/event?id=3464278356)
-- [📺 16th September, 2023: Microsoft Azure Pakistan Community - AKS Survival Pack: what to consider before going all-in with AKS](https://www.meetup.com/Microsoft-Azure-Pakistan-Community/events/294272415)
-- [📝 7th September, 2023: Microsoft Learn Community Content - “Manage cost and optimize resources in AKS with Kubecost”](https://learn.microsoft.com/en-us/community/content/how-to-utilize-kubecost-for-cost-management-of-aks)
-- [📝 25th August, 2023: kode24 article - “Lanserer klimanettverk for utviklere”](https://www.kode24.no/artikkel/lanserer-klimanettverk-for-utviklere-mange-er-negative/80111720)
-- [📺 26th July, 2023: Cloud Lunch &amp; Learn - Managed Kubernetes Service: Day Zero Survival Pack](https://www.meetup.com/azuredublin/events/294393389)
 <!-- EVENTS-LIST:END -->
 
 ---
