@@ -24,7 +24,7 @@
 
 💚 Founder of [Green Software Foundation Oslo](https://www.meetup.com/gsf-oslo) meetup group
 
-🌱 [CNCF TAG Environmental Sustainability](https://tag-env-sustainability.cncf.io) tech lead
+🌱 [CNCF TAG Environmental Sustainability](https://tag-env-sustainability.cncf.io) chair
 
 💫 Co-organizer at [Cloud Native and Kubernetes Oslo](https://www.meetup.com/cloud-native-and-kubernetes-oslo) and Norwegian .NET User Group Oslo: [NNUG Oslo](https://www.meetup.com/nnugoslo)
 
