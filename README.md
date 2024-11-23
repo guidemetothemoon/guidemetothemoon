@@ -54,15 +54,16 @@
 ## 🚀 Badges
 
 <p float="left">
+  <img alt="Cloud Native Sustainability Week 2024 Organizer" src="./images/organizer-cloud-native-sustainability-week-2024.png" width="150" height="150" />
   <img alt="KubeCon+CloudNativeCon NA 2024 Track Chair" src="./images/track-chair-kubecon-2024.png" width="150" height="150" />
   <img alt="Microsoft Azure MVP 2024" src="./images/mvp-logo-2024.png" width="150" height="150" />
-  <img alt="Microsoft Azure MVP 2023" src="./images/mvp-logo-2023.png" width="150" height="150" />
   <img alt="Microsoft Contributor Kudos" src="./images/microsoft-contributor-kudos.png" width="150" height="150" />
   <img alt="CNCF Ambassador 2024-2026" src="./images/cncf-ambassador-h1-2024.png" width="150" height="150" />
   <img alt="KubeCon+CloudNativeCon EU 2024 Program Committee Member" src="./images/program-committee-member-kubecon-eu24.png" width="150" height="150" />
   <img alt="OSS NA 2024 Program Committee Member" src="./images/program-committee-member-oss-na-24.png" width="150" height="150" />
   <img alt="KubeCon+CloudNativeCon EU 2024 Speaker" src="./images/speaker-kubecon-2024.png" width="150" height="150" />
   <img alt="KCD Oslo 2024 Organizer" src="./images/organizer-kcd-2024.png" width="150" height="150" />
+  <img alt="Microsoft Azure MVP 2023" src="./images/mvp-logo-2023.png" width="150" height="150" />
   <img alt="CNCF Ambassador 2023-2024" src="./images/cncf-ambassador-spring-2023.png" width="150" height="150" />
   <img alt="KubeCon+CloudNativeCon EU 2023 Speaker" src="./images/speaker-kubecon-2023.png" width="150" height="150" />
   <img alt="KubeCon+CloudNativeCon NA 2023 Program Committee Member" src="./images/program-committee-kubecon-na.png" width="150" height="150" />
