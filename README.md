@@ -28,7 +28,7 @@
 
 💫 Co-organizer at [Cloud Native and Kubernetes Oslo](https://www.meetup.com/cloud-native-and-kubernetes-oslo) and Norwegian .NET User Group Oslo: [NNUG Oslo](https://www.meetup.com/nnugoslo)
 
-🎙️ Co-Host at [Engineering Revised](https://sites.libsyn.com/529037) podcast
+🎙️ Co-Host at [Platform & Cloud Café](https://sites.libsyn.com/529037) podcast
 
 
 [![Spotify](https://guidemetothemoon-spotify.vercel.app/api/spotify?background_color=0e030d&border_color=ffffff)](https://open.spotify.com/user/116298200)
