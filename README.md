@@ -78,6 +78,7 @@
 ## 📜 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Azure Private DNS zone fallback to internet - what, why and how](https://kristhecodingunicorn.com/post/azure-private-dns-zone-fallback-to-public/)
 - [How to automate migration of classic Application Insights instances to workspace-based](https://kristhecodingunicorn.com/post/migrate-application-insights-to-workspace-based/)
 - [Christmas the Whole Year Round...and Year++ with Kubernetes LTS](https://kristhecodingunicorn.com/post/kubernetes-lts/)
 - [Passing Kubernetes and Cloud Native Associate &lpar;KCNA&rpar; certification exam](https://kristhecodingunicorn.com/post/passing-kcna-certification-exam/)
@@ -87,7 +88,6 @@
 - [How to get all Azure Policy assignments of a specific category?](https://kristhecodingunicorn.com/post/get-azure-policy-assignment-of-category/)
 - [Resolving Application Insights performance counters collection issue for .NET applications](https://kristhecodingunicorn.com/post/application-insights-perfcounters-collection-issue-dotnet/)
 - [Scanning Azure VMs, Azure Arc-enabled servers and ACR images for vulnerabilities with Microsoft Defender and Qualys](https://kristhecodingunicorn.com/post/scan-azurevm-azurearc-acr-with-defender-and-qualys/)
-- [Takeaways from attending KubeCon+CloudNativeCon Europe 2023, wearing many hats](https://kristhecodingunicorn.com/post/kubecon-cloudnativecon-eu-2023-takeaways/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🦄 Recent Events (Past and Upcoming)
