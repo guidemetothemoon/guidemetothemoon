@@ -55,6 +55,7 @@
 
 <p float="left">
   <img alt="KubeCon+CloudNativeCon EU 2025 Program Committee Member" src="./images/program-committee-member-kubecon-eu25.png" width="150" height="150" />
+  <img alt="Cloud Native Community Group 2024 Organizer" src="./images/organizer-cloud-native-community-group-2024.png" width="150" height="150" />
   <img alt="Cloud Native Sustainability Week 2024 Organizer" src="./images/organizer-cloud-native-sustainability-week-2024.png" width="150" height="150" />
   <img alt="KubeCon+CloudNativeCon NA 2024 Track Chair" src="./images/track-chair-kubecon-2024.png" width="150" height="150" />
   <img alt="Microsoft Azure MVP 2024" src="./images/mvp-logo-2024.png" width="150" height="150" />
