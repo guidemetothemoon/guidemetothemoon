@@ -78,6 +78,7 @@
 ## 📜 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Azure DevOps Bits and Bobs: #1 - How to update PATH environment variable](https://kristhecodingunicorn.com/post/azure-devops-prepend-path/)
 - [Azure Private DNS zone fallback to internet - what, why and how](https://kristhecodingunicorn.com/post/azure-private-dns-zone-fallback-to-public/)
 - [How to automate migration of classic Application Insights instances to workspace-based](https://kristhecodingunicorn.com/post/migrate-application-insights-to-workspace-based/)
 - [Christmas the Whole Year Round...and Year++ with Kubernetes LTS](https://kristhecodingunicorn.com/post/kubernetes-lts/)
@@ -87,7 +88,6 @@
 - [Kubernetes port forwarding: cleaning up orphaned ports](https://kristhecodingunicorn.com/post/kubernetes-port-forwarding-cleanup-of-orphaned-ports/)
 - [How to get all Azure Policy assignments of a specific category?](https://kristhecodingunicorn.com/post/get-azure-policy-assignment-of-category/)
 - [Resolving Application Insights performance counters collection issue for .NET applications](https://kristhecodingunicorn.com/post/application-insights-perfcounters-collection-issue-dotnet/)
-- [Scanning Azure VMs, Azure Arc-enabled servers and ACR images for vulnerabilities with Microsoft Defender and Qualys](https://kristhecodingunicorn.com/post/scan-azurevm-azurearc-acr-with-defender-and-qualys/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🦄 Recent Events (Past and Upcoming)
