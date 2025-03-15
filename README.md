@@ -1,22 +1,22 @@
 <div id="intro" align="center">
 
-  <img alt="Kind cat GIF" src="./images/greeting-cat.gif" />
+  <img alt="A GIF of a cat playing with mechanical mouse toy and then letting it go" src="./images/greeting-cat.gif" />
 
   <h1>Hi, I'm Kris!</h1>
 
   <div id="social-icons">
     <a href="https://kristhecodingunicorn.com">
-      <img src="https://raster.shields.io/badge/Tech Blog-blueviolet?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABmJLR0QA/wD/AP+gvaeTAAACeklEQVQ4jaWTTUgbQRiG35nZrNlkJdYY/K3Gn/YQD4IHDUYEiwixFEFb8VzooT320LPQayn0Ujz1WqFG6qEVNFQRRVtP9fdS26KJVJrE1WQ3cbM700MwxdSefE/D8D3vN+/MN8A1RQBgORz2lXH+AkIMC87dTJIObNt+2b2w8BoTE+TL2toTQshTblk3KaUZEPI+R+mzvrm532Q5HPY5Of9aUVdX5WttdchOJ7Knp4jt7upmJvOBAMShqkMNgYBb8XiQZwznHo/9c2rqF2y7gz1ua3vlqa3taezocEiyDEIpZEVBZX29rB0dNVFJunU7FFLL3G5QVYVrfBxqTw9l5+dObW+vUuJCjPpaWhyl2ShjaOrsVC/WRFEgj4yAeL0QqRSUdFqmwH0Jtl0uK0oRlMfGAMaQn53FxS5xuSCPjhbgZBJmJALJtsE591DCWDyXTv9tLUmg1dUFwOW6EhaGgdzZGShjMfaoudkys9m+yoYGGQD4/j6Y3w/i9YL5/WCBwD8wAMQ2NzOmrj+nhmVN6qlU6iQeFwAgDAPm9DREIgHi9RYzmzMzRTgVi4nMyUnSsKxJ2r+0ZOXz+cHDrS3d0DQAgMhmC90SiQIciUDoOgAgq2k43N7WiWne7V9asshF9PX+/iEiy+/agkGXq6KieHkXpwIAQ9PwbX3dEKb5ILi4+LE4iUWTgYFhEPK2tatLUauqLj1rOpHA942NHDgfD0ajs5dGucSkl1A6W9/eXuFtbKQAkDw44PGdnTPB+b1gNLryz18o1efBwWYQ8ulGTU21EALa8fExhLjTPT//o7T2SgMAWAmFyh3l5W8AIJ9OP+xdXU3/r/Za+gNs6RqKUGJHgAAAAABJRU5ErkJggg==" alt="Blog"/>
+      <img src="https://raster.shields.io/badge/Tech Blog-blueviolet?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABmJLR0QA/wD/AP+gvaeTAAACeklEQVQ4jaWTTUgbQRiG35nZrNlkJdYY/K3Gn/YQD4IHDUYEiwixFEFb8VzooT320LPQayn0Ujz1WqFG6qEVNFQRRVtP9fdS26KJVJrE1WQ3cbM700MwxdSefE/D8D3vN+/MN8A1RQBgORz2lXH+AkIMC87dTJIObNt+2b2w8BoTE+TL2toTQshTblk3KaUZEPI+R+mzvrm532Q5HPY5Of9aUVdX5WttdchOJ7Knp4jt7upmJvOBAMShqkMNgYBb8XiQZwznHo/9c2rqF2y7gz1ua3vlqa3taezocEiyDEIpZEVBZX29rB0dNVFJunU7FFLL3G5QVYVrfBxqTw9l5+dObW+vUuJCjPpaWhyl2ShjaOrsVC/WRFEgj4yAeL0QqRSUdFqmwH0Jtl0uK0oRlMfGAMaQn53FxS5xuSCPjhbgZBJmJALJtsE591DCWDyXTv9tLUmg1dUFwOW6EhaGgdzZGShjMfaoudkys9m+yoYGGQD4/j6Y3w/i9YL5/WCBwD8wAMQ2NzOmrj+nhmVN6qlU6iQeFwAgDAPm9DREIgHi9RYzmzMzRTgVi4nMyUnSsKxJ2r+0ZOXz+cHDrS3d0DQAgMhmC90SiQIciUDoOgAgq2k43N7WiWne7V9asshF9PX+/iEiy+/agkGXq6KieHkXpwIAQ9PwbX3dEKb5ILi4+LE4iUWTgYFhEPK2tatLUauqLj1rOpHA942NHDgfD0ajs5dGucSkl1A6W9/eXuFtbKQAkDw44PGdnTPB+b1gNLryz18o1efBwWYQ8ulGTU21EALa8fExhLjTPT//o7T2SgMAWAmFyh3l5W8AIJ9OP+xdXU3/r/Za+gNs6RqKUGJHgAAAAABJRU5ErkJggg==" alt="Icon for link to Blog page" />
     </a>
     <a href="https://linktr.ee/guidemetothemoon">
-      <img src="https://img.shields.io/badge/Let's%20Connect!-080ebf?style=for-the-badge&logo=aerlingus" alt="Linktree"/>
+      <img src="https://img.shields.io/badge/Let's%20Connect!-080ebf?style=for-the-badge&logo=aerlingus" alt="Icon for link to Linktree page" />
     </a>
   </div>
 </div>
 
 ## About Me
 
-:tiger: Platform Engineer. Interested in all things tech, cats and motorcycles. Advocate of being nice and kind to each other, animals, nature and planet as a whole.
+:tiger: Software/Platform Engineer and Architect. Basically a hands-on techie. Interested in all things tech, cats and motorcycles. Advocate of being nice and kind to each other, animals, nature and planet as a whole.
 
 ⛅️ [Microsoft Azure MVP](https://mvp.microsoft.com/en-US/mvp/profile/4b89b8a2-6d27-ed11-9db2-000d3a1028ba) and [CNCF Ambassador](https://www.cncf.io/people/ambassadors/?_sft_lf-country=no&p=kristina-devochko)
 
@@ -32,58 +32,11 @@
 
 😻 [Developer of the Year 2024](https://nordicwomenintechawards.com/winners-2024) by Nordic Women in Tech Awards and one of Norway's 50 top women in tech 2025, i.e. [Norges 50 fremste tech-kvinner 2025](https://odanettverk.no/2025/03/07/50techkvinner-2025)
 
+## Certifications and Community Contributions
+
+Check out my public [Credly page](https://www.credly.com/users/kristina-devochko) to learn more about certifications that I hold and some of the community contributions that I received beautiful badges for.
+
 [![Spotify](https://guidemetothemoon-spotify.vercel.app/api/spotify?background_color=0e030d&border_color=ffffff)](https://open.spotify.com/user/116298200)
-
-## Tech Stack
-
-<div id="tech-icons">
-  <img src="./images/tech-icons/azure-original-wordmark.svg" title="Microsoft Azure" alt="Microsoft Azure" width="80" height="80"/>&nbsp;
-  <img src="./images/tech-icons/kubernetes-icon.png" title="Kubernetes" alt="Kubernetes" width="80" height="80"/>&nbsp;
-  <img src="./images/tech-icons/docker-icon.png" title="Docker" alt="Docker" width="80" height="80"/>&nbsp;
-  <img src="./images/tech-icons/terraform-icon.png" title="Terraform" alt="Terraform" width="80" height="80"/>&nbsp;
-  <img src="./images/tech-icons/bicep-icon.png" title="Azure Bicep" alt="Azure Bicep" width="80" height="80"/>&nbsp;
-  <img src="./images/tech-icons/csharp-icon.png" title="CSharp" alt="CSharp" width="80" height="80"/>&nbsp;
-  <img src="./images/tech-icons/dotnet-icon.png" title="dotnet" alt="dotnet" width="80" height="80"/>&nbsp;
-  <img src="./images/tech-icons/scripting-icon.png" title="Scripting" alt="Scripting" width="80" height="80"/>&nbsp;
-  <img src="./images/tech-icons/git-icon.png" title="Git" alt="Git" width="80" height="80"/>&nbsp;
-  <img src="./images/tech-icons/github-icon.png" title="GitHub" alt="GitHub" width="80" height="80"/>&nbsp;
-  <img src="./images/tech-icons/sql-icon.png" title="SQL" alt="SQL" width="80" height="80"/>
-  <img src="./images/tech-icons/octopus-icon.png" title="Octopus Deploy" alt="Octopus Deploy" width="80" height="80"/>
-  <img src="./images/tech-icons/hugo-icon.png" title="Hugo Server" alt="Hugo Server" width="80" height="80"/>
-</div>
-
-## Badges
-
-<p float="left">
-  <img alt="KubeCon+CloudNativeCon EU 2025 Program Committee Member" src="./images/program-committee-member-kubecon-eu25.png" width="150" height="150" />
-  <img alt="Cloud Native Community Group 2024 Organizer" src="./images/organizer-cloud-native-community-group-2024.png" width="150" height="150" />
-  <img alt="Cloud Native Sustainability Week 2024 Organizer" src="./images/organizer-cloud-native-sustainability-week-2024.png" width="150" height="150" />
-  <img alt="KubeCon+CloudNativeCon NA 2024 Track Chair" src="./images/track-chair-kubecon-2024.png" width="150" height="150" />
-  <img alt="Microsoft Azure MVP 2024" src="./images/mvp-logo-2024.png" width="150" height="150" />
-  <img alt="Microsoft Contributor Kudos" src="./images/microsoft-contributor-kudos.png" width="150" height="150" />
-  <img alt="CNCF Ambassador 2024-2026" src="./images/cncf-ambassador-h1-2024.png" width="150" height="150" />
-  <img alt="KubeCon+CloudNativeCon EU 2024 Program Committee Member" src="./images/program-committee-member-kubecon-eu24.png" width="150" height="150" />
-  <img alt="OSS NA 2024 Program Committee Member" src="./images/program-committee-member-oss-na-24.png" width="150" height="150" />
-  <img alt="KubeCon+CloudNativeCon EU 2024 Speaker" src="./images/speaker-kubecon-2024.png" width="150" height="150" />
-  <img alt="KCD Oslo 2024 Organizer" src="./images/organizer-kcd-2024.png" width="150" height="150" />
-  <img alt="Microsoft Azure MVP 2023" src="./images/mvp-logo-2023.png" width="150" height="150" />
-  <img alt="CNCF Ambassador 2023-2024" src="./images/cncf-ambassador-spring-2023.png" width="150" height="150" />
-  <img alt="KubeCon+CloudNativeCon EU 2023 Speaker" src="./images/speaker-kubecon-2023.png" width="150" height="150" />
-  <img alt="KubeCon+CloudNativeCon NA 2023 Program Committee Member" src="./images/program-committee-kubecon-na.png" width="150" height="150" />
-  <img alt="Cloud Native Sustainability Week Organizer" src="./images/organizer-cloud-native-sustainability-week.png" width="150" height="150" />
-  <br>
-  <img alt="Azure Content Hero" src="./images/azure-content-hero.png" width="150" height="150" />
-  <img alt="Azure Community Hero" src="./images/azure-community-hero.png" width="150" height="150" />  
-</p>
-
-## Certifications
-
-<p float="left">
-    <img alt="KCSA: Kubernetes and Cloud Native Security Associate" src="./images/certifications/kcsa.png" width="150" height="150" />  
-    <img alt="KCNA: Kubernetes and Cloud Native Associate" src="./images/certifications/kcna.png" width="150" height="150" />
-    <img alt="GitHub Foundations" src="./images/certifications/github-foundations.png" width="150" height="150" />
-    <img alt="CompTIA Security+" src="./images/certifications/comptia-security-plus.png" width="150" height="150" />
-</p>
 
 ## Recent Blog Posts
 
