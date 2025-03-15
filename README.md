@@ -93,16 +93,16 @@
 ## 🦄 Recent Events (Past and Upcoming)
 
 <!-- EVENTS-LIST:START -->
+- [📺 7th March, 2025: BLDRcon Spring 2025](https://www.youtube.com/live/NuLQK-jOF4k?feature=shared)
+- [📺 26th December, 2024: Cloud-Native &amp; Platform Engineering EOY Wrap-up](https://www.youtube.com/live/bXRt6Rg54A0?feature=shared)
 - [📝 2nd December, 2024: 24 Days of Kubernetes - Kubernetes Sustainability Thought Leader Interviews](https://aknostic.com/articles/24-days-kubernetes-kristina-devochko-interview)
 - [🎙️ 11th June, 2024: Green Software Oslo at NDC Community Tuesday - Exploring best practices for sustainability of Kubernetes clusters and Kubernetes-hosted workloads](https://www.meetup.com/gsf-oslo/events/300942997)
 - [🎙️ 9th June, 2024: CNCF Ambassador interview to celebrate Kubertenes 10-year anniversary](https://www.linkedin.com/posts/bart-farrell_kubertenes-ugcPost-7205578472281251842-2lyM/?utm_source=share&utm_medium=member_desktop)
 - [🎙️ 19th April, 2024: nCast: The Cloud Optimization Podcast from nOps #12: Optimizing for Sustainability](https://open.spotify.com/episode/03m6TxbFfGJFGJudJY9KKH?si=w1UceH7sRfelICu7yQ7aFA)
-- [📺 3rd. April, 2024: Microsoft Learn Live - From Day Zero To Production with Azure Container Apps](https://www.youtube.com/live/yAtMgufv7Aw?si=vtQ6ziOYhasNKuyr)
+- [📺 3rd April, 2024: Microsoft Learn Live - From Day Zero To Production with Azure Container Apps](https://www.youtube.com/live/yAtMgufv7Aw?si=vtQ6ziOYhasNKuyr)
 - [📺 27th March, 2024: Cloud Native Austria and Saar - KubeCon Recap: Debunking Myths About Environmental Sustainability in the Cloud, Building a Greener CNCF Landscape](https://youtu.be/PLjX3gpnmjo?si=yUScFmZcOVw_Egq5)
 - [📺 21st March, 2024: KubeCon + CloudNativeCon Europe 2024: Cloud Native Sustainability Efforts in the Community - TAG Environmental Sustainability](https://sched.co/1Yhgd)
 - [📺 20th March, 2024: KubeCon + CloudNativeCon Europe 2024: CloudNativeHacks - Panel Discussion Facilitated by The Sustainability Working Group](https://sched.co/1Yvvp)
-- [📺 19th March, 2024: KubeCon + CloudNativeCon Europe 2024: Lightning Talk: Debunking Myths About Environmental Sustainability in the Cloud, Building a Greener CNCF Landscape](https://sched.co/1YeLF)
-- [🎙️ 25th January, 2024: Green Software Foundation Environment Variables podcast - The Week in Green Software: CNCF TAG Environmental Sustainability](https://podcast.greensoftware.foundation/e/q802j038-the-week-in-green-software-cncf-tag-environmental-sustainability)
 <!-- EVENTS-LIST:END -->
 
 ---
