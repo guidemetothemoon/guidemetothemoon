@@ -2,7 +2,7 @@
 
   <img alt="Kind cat GIF" src="./images/greeting-cat.gif" />
 
-  <h1>Hi, I'm Kris!😺</h1>
+  <h1>Hi, I'm Kris!</h1>
 
   <div id="social-icons">
     <a href="https://kristhecodingunicorn.com">
@@ -14,7 +14,7 @@
   </div>
 </div>
 
-## 🧙‍♀️ About Me
+## About Me
 
 :tiger: Platform Engineer. Interested in all things tech, cats and motorcycles. Advocate of being nice and kind to each other, animals, nature and planet as a whole.
 
@@ -30,10 +30,11 @@
 
 🎙️ Co-Host at [Platform & Cloud Café](https://sites.libsyn.com/529037) podcast
 
+😻 [Developer of the Year 2024](https://nordicwomenintechawards.com/winners-2024) by Nordic Women in Tech Awards and one of Norway's 50 top women in tech 2025, i.e. [Norges 50 fremste tech-kvinner 2025](https://odanettverk.no/2025/03/07/50techkvinner-2025)
 
 [![Spotify](https://guidemetothemoon-spotify.vercel.app/api/spotify?background_color=0e030d&border_color=ffffff)](https://open.spotify.com/user/116298200)
 
-## 👩‍💻 Tech Stack
+## Tech Stack
 
 <div id="tech-icons">
   <img src="./images/tech-icons/azure-original-wordmark.svg" title="Microsoft Azure" alt="Microsoft Azure" width="80" height="80"/>&nbsp;
@@ -51,7 +52,7 @@
   <img src="./images/tech-icons/hugo-icon.png" title="Hugo Server" alt="Hugo Server" width="80" height="80"/>
 </div>
 
-## 🚀 Badges
+## Badges
 
 <p float="left">
   <img alt="KubeCon+CloudNativeCon EU 2025 Program Committee Member" src="./images/program-committee-member-kubecon-eu25.png" width="150" height="150" />
@@ -75,7 +76,16 @@
   <img alt="Azure Community Hero" src="./images/azure-community-hero.png" width="150" height="150" />  
 </p>
 
-## 📜 Recent Blog Posts
+## Certifications
+
+<p float="left">
+    <img alt="KCSA: Kubernetes and Cloud Native Security Associate" src="./images/certifications/kcsa.png" width="150" height="150" />  
+    <img alt="KCNA: Kubernetes and Cloud Native Associate" src="./images/certifications/kcna.png" width="150" height="150" />
+    <img alt="GitHub Foundations" src="./images/certifications/github-foundations.png" width="150" height="150" />
+    <img alt="CompTIA Security+" src="./images/certifications/comptia-security-plus.png" width="150" height="150" />
+</p>
+
+## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Azure DevOps Bits and Bobs: #1 - How to update PATH environment variable](https://kristhecodingunicorn.com/post/azure-devops-prepend-path/)
