@@ -26,7 +26,7 @@
 
 🌱 [CNCF TAG Environmental Sustainability](https://tag-env-sustainability.cncf.io) chair
 
-💫 Co-organizer at [Cloud Native and Kubernetes Oslo](https://www.meetup.com/cloud-native-and-kubernetes-oslo) and Norwegian .NET User Group Oslo: [NNUG Oslo](https://www.meetup.com/nnugoslo)
+💫 Co-organizer at [Cloud Native Oslo](https://www.meetup.com/cloud-native-and-kubernetes-oslo) and Norwegian .NET User Group Oslo: [NNUG Oslo](https://www.meetup.com/nnugoslo)
 
 🎙️ Co-Host at [Platform & Cloud Café](https://sites.libsyn.com/529037) podcast
 
