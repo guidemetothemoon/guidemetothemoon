@@ -16,7 +16,7 @@
 
 ## About Me
 
-:tiger: Software/Platform Engineer and Architect. Basically a hands-on techie. Interested in all things tech, cats and motorcycles. Advocate of being nice and kind to each other, animals, nature and planet as a whole.
+:tiger: Software/Platform Engineer and Architect. Basically a hands-on techie who gladly chats about all things tech, cats and motorcycles. Advocate of being nice and kind to each other, animals, nature and planet as a whole.
 
 ⛅️ [Microsoft Azure MVP](https://mvp.microsoft.com/en-US/mvp/profile/4b89b8a2-6d27-ed11-9db2-000d3a1028ba) and [CNCF Ambassador](https://www.cncf.io/people/ambassadors/?_sft_lf-country=no&p=kristina-devochko)
 
