@@ -56,6 +56,7 @@ Check out my public [Credly page](https://www.credly.com/users/kristina-devochko
 ## 🦄 Recent Events (Past and Upcoming)
 
 <!-- EVENTS-LIST:START -->
+- [📝 9th April, 2025: Forskerforum - Datalagring: Kor mykje data er nok?](https://www.forskerforum.no/kor-mykje-data-er-nok)
 - [📺 7th March, 2025: BLDRcon Spring 2025](https://www.youtube.com/live/NuLQK-jOF4k?feature=shared)
 - [📺 26th December, 2024: Cloud-Native &amp; Platform Engineering EOY Wrap-up](https://www.youtube.com/live/bXRt6Rg54A0?feature=shared)
 - [📝 2nd December, 2024: 24 Days of Kubernetes - Kubernetes Sustainability Thought Leader Interviews](https://aknostic.com/articles/24-days-kubernetes-kristina-devochko-interview)
@@ -65,7 +66,6 @@ Check out my public [Credly page](https://www.credly.com/users/kristina-devochko
 - [📺 3rd April, 2024: Microsoft Learn Live - From Day Zero To Production with Azure Container Apps](https://www.youtube.com/live/yAtMgufv7Aw?si=vtQ6ziOYhasNKuyr)
 - [📺 27th March, 2024: Cloud Native Austria and Saar - KubeCon Recap: Debunking Myths About Environmental Sustainability in the Cloud, Building a Greener CNCF Landscape](https://youtu.be/PLjX3gpnmjo?si=yUScFmZcOVw_Egq5)
 - [📺 21st March, 2024: KubeCon + CloudNativeCon Europe 2024: Cloud Native Sustainability Efforts in the Community - TAG Environmental Sustainability](https://sched.co/1Yhgd)
-- [📺 20th March, 2024: KubeCon + CloudNativeCon Europe 2024: CloudNativeHacks - Panel Discussion Facilitated by The Sustainability Working Group](https://sched.co/1Yvvp)
 <!-- EVENTS-LIST:END -->
 
 ---
