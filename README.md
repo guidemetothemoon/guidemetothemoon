@@ -41,6 +41,7 @@ Check out my public [Credly page](https://www.credly.com/users/kristina-devochko
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Home Lab Part 1 - Joining the self-hosting club](https://kristhecodingunicorn.com/post/home-lab-part-one/)
 - [Azure DevOps Bits and Bobs: #1 - How to update PATH environment variable](https://kristhecodingunicorn.com/post/azure-devops-prepend-path/)
 - [Azure Private DNS zone fallback to internet - what, why and how](https://kristhecodingunicorn.com/post/azure-private-dns-zone-fallback-to-public/)
 - [How to automate migration of classic Application Insights instances to workspace-based](https://kristhecodingunicorn.com/post/migrate-application-insights-to-workspace-based/)
@@ -50,7 +51,6 @@ Check out my public [Credly page](https://www.credly.com/users/kristina-devochko
 - [Resilience testing of Azure services with Azure Chaos Studio](https://kristhecodingunicorn.com/post/azure-services-resilience-testing-with-azure-chaos-studio/)
 - [Kubernetes port forwarding: cleaning up orphaned ports](https://kristhecodingunicorn.com/post/kubernetes-port-forwarding-cleanup-of-orphaned-ports/)
 - [How to get all Azure Policy assignments of a specific category?](https://kristhecodingunicorn.com/post/get-azure-policy-assignment-of-category/)
-- [Resolving Application Insights performance counters collection issue for .NET applications](https://kristhecodingunicorn.com/post/application-insights-perfcounters-collection-issue-dotnet/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🦄 Recent Events (Past and Upcoming)
