@@ -41,7 +41,7 @@ Check out my public [Credly page](https://www.credly.com/users/kristina-devochko
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Home Lab Part 1 - Joining the self-hosting club](https://kristhecodingunicorn.com/post/home-lab-part-one/)
+- [HomeLab Part 1 - Joining the self-hosting club](https://kristhecodingunicorn.com/post/home-lab-part-one/)
 - [Azure DevOps Bits and Bobs: #1 - How to update PATH environment variable](https://kristhecodingunicorn.com/post/azure-devops-prepend-path/)
 - [Azure Private DNS zone fallback to internet - what, why and how](https://kristhecodingunicorn.com/post/azure-private-dns-zone-fallback-to-public/)
 - [How to automate migration of classic Application Insights instances to workspace-based](https://kristhecodingunicorn.com/post/migrate-application-insights-to-workspace-based/)
