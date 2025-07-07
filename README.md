@@ -41,6 +41,7 @@ Check out my public [Credly page](https://www.credly.com/users/kristina-devochko
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tech Bits and Bobs #1 - Reference GitHub Repository and Deployment Environment Secrets and Variables in Reusable Workflows](https://kristhecodingunicorn.com/post/github-secrets-and-vars-in-reusable-workflow/)
 - [HomeLab Part 1 - Joining the self-hosting club](https://kristhecodingunicorn.com/post/home-lab-part-one/)
 - [Azure DevOps Bits and Bobs: #1 - How to update PATH environment variable](https://kristhecodingunicorn.com/post/azure-devops-prepend-path/)
 - [Azure Private DNS zone fallback to internet - what, why and how](https://kristhecodingunicorn.com/post/azure-private-dns-zone-fallback-to-public/)
@@ -50,7 +51,6 @@ Check out my public [Credly page](https://www.credly.com/users/kristina-devochko
 - [A bird&#39;s-eye view of upcoming KubeCon+CloudNativeCon North America 2023](https://kristhecodingunicorn.com/post/kubecon-cloudnativecon-na-2023-expectations/)
 - [Resilience testing of Azure services with Azure Chaos Studio](https://kristhecodingunicorn.com/post/azure-services-resilience-testing-with-azure-chaos-studio/)
 - [Kubernetes port forwarding: cleaning up orphaned ports](https://kristhecodingunicorn.com/post/kubernetes-port-forwarding-cleanup-of-orphaned-ports/)
-- [How to get all Azure Policy assignments of a specific category?](https://kristhecodingunicorn.com/post/get-azure-policy-assignment-of-category/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🦄 Recent Events (Past and Upcoming)
