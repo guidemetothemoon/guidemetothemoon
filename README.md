@@ -18,19 +18,17 @@
 
 :tiger: Software/Platform Engineer and Architect. Basically a hands-on techie who gladly chats about all things tech, cats and motorcycles. Advocate of being nice and kind to each other, animals, nature and planet as a whole.
 
-⛅️ [Microsoft Azure MVP](https://mvp.microsoft.com/en-US/mvp/profile/4b89b8a2-6d27-ed11-9db2-000d3a1028ba) and [CNCF Ambassador](https://www.cncf.io/people/ambassadors/?_sft_lf-country=no&p=kristina-devochko)
+⛅️ [CNCF Ambassador](https://www.cncf.io/people/ambassadors/?_sft_lf-country=no&p=kristina-devochko) and [Green Software Champion](https://champions.greensoftware.foundation/champions/kristina-devochko)
 
-🌍 [Green Software Champion](https://champions.greensoftware.foundation/champions/kristina-devochko)
-
-💚 Founder of [Green Software Foundation Oslo](https://www.meetup.com/gsf-oslo) meetup group
-
-🌱 [CNCF TAG Environmental Sustainability](https://tag-env-sustainability.cncf.io) chair
+💚 Founder and organizer at [Green Software Foundation Oslo](https://www.meetup.com/gsf-oslo) meetup group
 
 💫 Co-organizer at [Cloud Native Oslo](https://www.meetup.com/cloud-native-and-kubernetes-oslo) and Norwegian .NET User Group Oslo: [NNUG Oslo](https://www.meetup.com/nnugoslo)
 
 🎙️ Co-Host at [Platform & Cloud Café](https://sites.libsyn.com/529037) podcast
 
 😻 [Developer of the Year 2024](https://nordicwomenintechawards.com/winners-2024) by Nordic Women in Tech Awards and one of Norway's 50 top women in tech 2025, i.e. [Norges 50 fremste tech-kvinner 2025](https://odanettverk.no/2025/03/07/50techkvinner-2025)
+
+🌍 Microsoft MVP Alumni (2022-2025), [CNCF TAG Environmental Sustainability (Archived)](https://tag-env-sustainability.cncf.io) chair emeritus
 
 ## Certifications and Community Contributions
 
