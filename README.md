@@ -2,31 +2,17 @@
 
   <img alt="A GIF of a cat playing with mechanical mouse toy and then letting it go" src="./images/greeting-cat.gif" />
 
-  <h1>Hi, I'm Kris!</h1>
+## Hi, I'm Kris!
 
-  <div id="social-icons">
-    <a href="https://kristhecodingunicorn.com">
-      <img src="https://raster.shields.io/badge/Tech Blog-blueviolet?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABmJLR0QA/wD/AP+gvaeTAAACeklEQVQ4jaWTTUgbQRiG35nZrNlkJdYY/K3Gn/YQD4IHDUYEiwixFEFb8VzooT320LPQayn0Ujz1WqFG6qEVNFQRRVtP9fdS26KJVJrE1WQ3cbM700MwxdSefE/D8D3vN+/MN8A1RQBgORz2lXH+AkIMC87dTJIObNt+2b2w8BoTE+TL2toTQshTblk3KaUZEPI+R+mzvrm532Q5HPY5Of9aUVdX5WttdchOJ7Knp4jt7upmJvOBAMShqkMNgYBb8XiQZwznHo/9c2rqF2y7gz1ua3vlqa3taezocEiyDEIpZEVBZX29rB0dNVFJunU7FFLL3G5QVYVrfBxqTw9l5+dObW+vUuJCjPpaWhyl2ShjaOrsVC/WRFEgj4yAeL0QqRSUdFqmwH0Jtl0uK0oRlMfGAMaQn53FxS5xuSCPjhbgZBJmJALJtsE591DCWDyXTv9tLUmg1dUFwOW6EhaGgdzZGShjMfaoudkys9m+yoYGGQD4/j6Y3w/i9YL5/WCBwD8wAMQ2NzOmrj+nhmVN6qlU6iQeFwAgDAPm9DREIgHi9RYzmzMzRTgVi4nMyUnSsKxJ2r+0ZOXz+cHDrS3d0DQAgMhmC90SiQIciUDoOgAgq2k43N7WiWne7V9asshF9PX+/iEiy+/agkGXq6KieHkXpwIAQ9PwbX3dEKb5ILi4+LE4iUWTgYFhEPK2tatLUauqLj1rOpHA942NHDgfD0ajs5dGucSkl1A6W9/eXuFtbKQAkDw44PGdnTPB+b1gNLryz18o1efBwWYQ8ulGTU21EALa8fExhLjTPT//o7T2SgMAWAmFyh3l5W8AIJ9OP+xdXU3/r/Za+gNs6RqKUGJHgAAAAABJRU5ErkJggg==" alt="Icon for link to Blog page" />
-    </a>
-    <a href="https://linktr.ee/guidemetothemoon">
-      <img src="https://img.shields.io/badge/Let's%20Connect!-080ebf?style=for-the-badge&logo=aerlingus" alt="Icon for link to Linktree page" />
-    </a>
-  </div>
-</div>
-
-## About Me
-
-:tiger: Software/Platform Engineer and Architect. Basically a hands-on techie who gladly chats about all things tech, cats and motorcycles. Advocate of being nice and kind to each other, animals, nature and planet as a whole.
+:tiger: Software/Platform Engineer and Architect. Advocate of being nice and kind to each other, animals, nature and planet as a whole.
 
 ⛅️ [CNCF Ambassador](https://www.cncf.io/people/ambassadors/?_sft_lf-country=no&p=kristina-devochko) and [Green Software Champion](https://champions.greensoftware.foundation/champions/kristina-devochko)
 
-💚 Founder and organizer at [Green Software Foundation Oslo](https://www.meetup.com/gsf-oslo) meetup group
-
 🌱 Blogging from time to time at [kristhecodingunicorn.com](https://kristhecodingunicorn.com)
 
-💫 Co-organizer at [Cloud Native Oslo](https://www.meetup.com/cloud-native-and-kubernetes-oslo) and Norwegian .NET User Group Oslo: [NNUG Oslo](https://www.meetup.com/nnugoslo)
+💫 Co-organizer at [Cloud Native Oslo](https://www.meetup.com/cloud-native-and-kubernetes-oslo) and [Green Software Foundation Oslo](https://www.meetup.com/gsf-oslo) meetup group. Co-organizer emeritus at Norwegian .NET User Group Oslo: [NNUG Oslo](https://www.meetup.com/nnugoslo)
 
-🎙️ Co-Host at [Platform & Cloud Café](https://sites.libsyn.com/529037) podcast
+🎙️ Co-Host emeritus at [Platform & Cloud Café](https://sites.libsyn.com/529037) and [Kubernetes Unpacked](https://packetpushers.net/podcast/kubernetes-unpacked/) podcast
 
 😻 [Developer of the Year 2024](https://nordicwomenintechawards.com/winners-2024) by Nordic Women in Tech Awards and one of Norway's 50 top women in tech 2025, i.e. [Norges 50 fremste tech-kvinner 2025](https://odanettverk.no/2025/03/07/50techkvinner-2025)
 
