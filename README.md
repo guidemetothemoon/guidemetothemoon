@@ -2,6 +2,8 @@
 
   <img alt="A GIF of a cat playing with mechanical mouse toy and then letting it go" src="./images/greeting-cat.gif" />
 
+</div>
+
 ## Hi, I'm Kris!
 
 :tiger: Software/Platform Engineer and Architect. Advocate of being nice and kind to each other, animals, nature and planet as a whole.
